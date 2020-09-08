@@ -1,0 +1,6 @@
+sounds = False
+flip = False
+slideshow = True
+show_moves = True
+allow_undo = True
+show_clock = False
