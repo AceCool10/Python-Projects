@@ -5,7 +5,7 @@ import time
 from words import word_list
 import math
 
-#makes variables                     #TODO Make a skip all this thing, try indent and if statement 
+#makes variables
 secret = 0 
 admin = False
 admin_thing = 0
@@ -21,7 +21,7 @@ if user_name == "aiden":
 	secret = 3
 	admin = True
 if user_name != "" and user_name != "ADMIN":
-	print("\nHello, " + user_name.title())	
+	print("\nHello, " + user_name.title())
 
 #gets starting times
 current_date = datetime.date.today()
