@@ -1,7 +1,0 @@
-notes.txt
-
-**/__pycache__/
-
-res/stockfish/build/stockfish.exe
-res/stockfish/path.txt
-res/savedGames/game*.txt
