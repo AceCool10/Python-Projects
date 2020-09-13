@@ -1,0 +1,2 @@
+PUT A STOCKFISH EXECUTABLE IN THIS DIRECTORY AFTER RENAMING IT TO "stockfish"
+("stockfish.exe" for Windows)

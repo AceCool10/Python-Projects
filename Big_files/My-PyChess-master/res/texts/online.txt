@@ -1,0 +1,21 @@
+I have hosted a public My-PyChess gameserver that
+anyone in the world can connect to!
+
+If you want to connect, click the connect button
+below.
+Note: If you are getting an error while trying to
+connect, read onlinehowto.txt to solve it.
+
+
+
+THE SECTION BELOW IS FOR SELF-HOSTED SERVERS
+
+Enter the server's address below and connect to it -
+
+
+
+
+Advanced Settings:
+Enter the IP protocol of server (IPv4 is default)
+
+                       IPv4                               IPv6

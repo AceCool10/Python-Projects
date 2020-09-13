@@ -1,0 +1,7846 @@
+(dp0
+S'Star & Role'
+p1
+(lp2
+S'Adam Sandler As Happy Gilmore'
+p3
+aS'Anthony Hopkins As Nixon'
+p4
+aS'Bob Denver As Gilligan'
+p5
+aS'Candice Bergen As Murphy Brown'
+p6
+aS'Don Johnson As Nash Bridges'
+p7
+aS'Eddie Murphy As The Nutty Professor'
+p8
+aS'Elizabeth Taylor & Richard Burton In Cleopatra'
+p9
+aS'Fran Drescher As The Nanny'
+p10
+aS'Jim Carrey As Ace Ventura'
+p11
+aS'Lea Thompson As Caroline In The City'
+p12
+aS'Marlo Thomas As That Girl'
+p13
+aS'Michael Douglas As The American President'
+p14
+aS'Paul Newman As Butch Cassidy'
+p15
+aS'Peter Falk As Columbo'
+p16
+aS"Peter O'Toole As Lawrence Of Arabia"
+p17
+aS'Pierce Brosnan As James Bond'
+p18
+aS'Sally Field As Norma Rae'
+p19
+aS'Sally Field As The Flying Nun'
+p20
+aS'Steve Martin In Father Of The Bride'
+p21
+aS'Telly Savalas As Kojak'
+p22
+aS'Tom Hanks As Forrest Gump'
+p23
+aS'Tom Selleck As Magnum P.I.'
+p24
+aS'Val Kilmer As Batman'
+p25
+asS'Title'
+p26
+(lp27
+S'A Christmas Carol'
+p28
+aS'A Few Good Men'
+p29
+aS'A Passage To India'
+p30
+aS'A Place In The Sun'
+p31
+aS'A Room With A View'
+p32
+aS"A Soldier's Story"
+p33
+aS'A Star Is Born'
+p34
+aS'A Walk In The Clouds'
+p35
+aS'Ace Ventura When Nature Calls'
+p36
+aS"Adam's Rib"
+p37
+aS'Addams Family Values'
+p38
+aS'Airport'
+p39
+aS"Alice's Adventures In Wonderland"
+p40
+aS'Alien Nation'
+p41
+aS'All That Jazz'
+p42
+aS"All's Well That Ends Well"
+p43
+aS'Amadeus'
+p44
+aS'American Gothic'
+p45
+aS'An American Tail'
+p46
+aS'An Affair To Remember'
+p47
+aS'Angels In The Outfield'
+p48
+aS'Animal Farm'
+p49
+aS'Another World'
+p50
+aS'Are You Lonesome Tonight'
+p51
+aS"Baby It's You"
+p52
+aS'Back In The Saddle Again'
+p53
+aS'Barnaby Jones'
+p54
+aS'Barney Miller'
+p55
+aS'Barney & Friends'
+p56
+aS'Batman Forever'
+p57
+aS'Baywatch'
+p58
+aS'Blackboard Jungle'
+p59
+aS'Blame It On Rio'
+p60
+aS'Bless The Beasts And The Children'
+p61
+aS'Blue Hawaii'
+p62
+aS'Body Heat'
+p63
+aS'Body Of Evidence'
+p64
+aS'Braveheart'
+p65
+aS"Breakfast At Tiffany's"
+p66
+aS'Breaking Up Is Hard To Do'
+p67
+aS'Breathless'
+p68
+aS'Bright Lights Big City'
+p69
+aS'Cabaret'
+p70
+aS'Caesar And Cleopatra'
+p71
+aS'Calendar Girl'
+p72
+aS'California Girls'
+p73
+aS'Call Of The Wild'
+p74
+aS'Camelot'
+p75
+aS'Can You Feel The Love Tonight'
+p76
+aS'Caroline In The City'
+p77
+aS'Charles In Charge'
+p78
+aS"Charlie's Angels"
+p79
+aS"Charlotte's Web"
+p80
+aS'Chicago Hope'
+p81
+aS'Chinatown'
+p82
+aS'Citizen Kane'
+p83
+aS'City Slickers'
+p84
+aS'Clear And Present Danger'
+p85
+aS'Cliffhanger'
+p86
+aS"Coal Miner's Daughter"
+p87
+aS'Columbo'
+p88
+aS'Coming Home'
+p89
+aS'Cool Runnings'
+p90
+aS'Corinna Corinna'
+p91
+aS'Coward Of The County'
+p92
+aS'Cybill'
+p93
+aS'Dangerous Liaisons'
+p94
+aS'Dangerous Minds'
+p95
+aS"Dave's World"
+p96
+aS'Death Be Not Proud'
+p97
+aS'Deliverance'
+p98
+aS'Demolition Man'
+p99
+aS'Dick Tracy'
+p100
+aS'Die Hard With A Vengeance'
+p101
+aS'Dinosaurs'
+p102
+aS'Dirty Harry'
+p103
+aS'Doctor Dolittle'
+p104
+aS'Dog Day Afternoon'
+p105
+aS"Don't Drink The Water"
+p106
+aS'Downhill Racer'
+p107
+aS'Dr. Kildare'
+p108
+aS'Dr. Quinn Medicine Woman'
+p109
+aS'Dream On'
+p110
+aS'Driving Miss Daisy'
+p111
+aS'East Of Eden'
+p112
+aS'East Side West Side'
+p113
+aS'Eight Is Enough'
+p114
+aS'Eleanor And Franklin'
+p115
+aS'Escape From New York'
+p116
+aS'Evening At Pops'
+p117
+aS'Falcon Crest'
+p118
+aS'Falling In Love Again'
+p119
+aS'Family Affair'
+p120
+aS'Family Feud'
+p121
+aS'Fantastic Voyage'
+p122
+aS'Father Of The Bride'
+p123
+aS'Five Easy Pieces'
+p124
+aS'Flight Of The Bumblebee'
+p125
+aS'Flipper'
+p126
+aS'Fool For Love'
+p127
+aS'Forbidden Planet'
+p128
+aS'Forrest Gump'
+p129
+aS'Four Weddings And A Funeral'
+p130
+aS'Francis The Talking Mule'
+p131
+aS'Frasier'
+p132
+aS'Free Willy'
+p133
+aS'Full House'
+p134
+aS'Fun With Dick And Jane'
+p135
+aS'Funny Lady'
+p136
+aS'Funny Face'
+p137
+aS'General Hospital'
+p138
+aS'Gentle Ben'
+p139
+aS"Gentleman's Agreement"
+p140
+aS'Get Shorty'
+p141
+aS"Gilligan's Island"
+p142
+aS'Glory Days'
+p143
+aS'Go Ask Alice'
+p144
+aS'Good Morning Vietnam'
+p145
+aS'Goodbye Columbus'
+p146
+aS'Goodbye Norma Jean'
+p147
+aS'Gorillas In The Mist'
+p148
+aS'Grand Hotel'
+p149
+aS'Grease'
+p150
+aS'Groundhog Day'
+p151
+aS'Grumpy Old Men'
+p152
+aS'Hail To The Chief'
+p153
+aS'Hamlet'
+p154
+aS'Hannah And Her Sisters'
+p155
+aS'Happy Trails'
+p156
+aS'Hard Times'
+p157
+aS'Heaven Can Wait'
+p158
+aS'Help Me Make It Through The Night'
+p159
+aS'Here Comes The Bride'
+p160
+aS'Hester Street'
+p161
+aS'High Society'
+p162
+aS'High Noon'
+p163
+aS"Hogan's Heroes"
+p164
+aS'Hollywood Squares'
+p165
+aS'Homicide Life On The Street'
+p166
+aS'Honey I Blew Up The Kid'
+p167
+aS'How The West Was Won'
+p168
+aS"Howard's End"
+p169
+aS'I Am A Fugitive From A Chain Gang'
+p170
+aS'I Dream Of Jeannie'
+p171
+aS'I Love Trouble'
+p172
+aS'I Will Follow Him'
+p173
+aS"I'll Fly Away"
+p174
+aS"I've Got A Lovely Bunch Of Coconuts"
+p175
+aS"If It's Tuesday This Must Be Belgium"
+p176
+aS'In The Heat Of The Night'
+p177
+aS'In The Mood'
+p178
+aS'In The Name Of The Father'
+p179
+aS'Independence Day'
+p180
+aS'Ironside'
+p181
+aS'It Had To Be You'
+p182
+aS'It Takes A Thief'
+p183
+aS'Jack And The Beanstalk'
+p184
+aS'Jonny Quest'
+p185
+aS'Junior'
+p186
+aS'Jurassic Park'
+p187
+aS'Just A Gigolo'
+p188
+aS'Kate And Allie'
+p189
+aS'King Of The Road'
+p190
+aS'Kiss Me Kate'
+p191
+aS'Kiss Of The Spider Woman'
+p192
+aS'Knots Landing'
+p193
+aS'L.A. Law'
+p194
+aS'Lady Sings The Blues'
+p195
+aS'Larry King Live'
+p196
+aS'Lassie Come Home'
+p197
+aS'Last Action Hero'
+p198
+aS'Late Night With Greg Kinnear'
+p199
+aS'Late Show With David Letterman'
+p200
+aS'Law & Order'
+p201
+aS'Leader Of The Pack'
+p202
+aS'Lean On Me'
+p203
+aS'Legal Eagles'
+p204
+aS'Less Than Zero'
+p205
+aS'Let It Be'
+p206
+aS"Let's Dance"
+p207
+aS'Lifestyles Of The Rich And Famous'
+p208
+aS'Like Water For Chocolate'
+p209
+aS'Lilies Of The Field'
+p210
+aS'Little Caesar'
+p211
+aS'Little Giants'
+p212
+aS'Little Man Tate'
+p213
+aS'Little Women'
+p214
+aS'Lonesome Dove'
+p215
+aS'Love Affair'
+p216
+aS'Love American Style'
+p217
+aS'Love And War'
+p218
+aS'Love Of My Life'
+p219
+aS'Main Street'
+p220
+aS'Make Room For Daddy'
+p221
+aS'Manhattan Murder Mystery'
+p222
+aS'Marathon Man'
+p223
+aS'Mary Had A Little Lamb'
+p224
+aS'Masterpiece Theater'
+p225
+aS'Max Headroom'
+p226
+aS'Mayberry R.F.D.'
+p227
+aS"Mchale's Navy"
+p228
+aS'Medical Center'
+p229
+aS'Meet Me In St. Louis'
+p230
+aS'Miami Vice'
+p231
+aS'Mighty Morphin Power Rangers'
+p232
+aS'Milk Money'
+p233
+aS'Money For Nothing'
+p234
+aS'Moon Over Miami'
+p235
+aS'Mortal Kombat'
+p236
+aS'Mr. Roberts'
+p237
+aS'Mr. Saturday Night'
+p238
+aS'Mrs. Doubtfire'
+p239
+aS'Murder One'
+p240
+aS'My Cousin Vinny'
+p241
+aS'My Favorite Martian'
+p242
+aS'My Friend Flicka'
+p243
+aS'My Gal Sal'
+p244
+aS'My Fair Lady'
+p245
+aS'My Heroes Have Always Been Cowboys'
+p246
+aS'My Mother The Car'
+p247
+aS'My Three Sons'
+p248
+aS'Nashville'
+p249
+aS'National Lampoon'
+p250
+aS'Network'
+p251
+aS'Next Stop Greenwich Village'
+p252
+aS'Night Of The Living Dead'
+p253
+aS"Nobody's Fool"
+p254
+aS'Norma Rae'
+p255
+aS'North Dallas Forty'
+p256
+aS'Nothing In Common'
+p257
+aS'Ode To Billie Joe'
+p258
+aS'On Golden Pond'
+p259
+aS'On A Clear Day You Can See Forever'
+p260
+aS'One Day At A Time'
+p261
+aS'One Life To Live'
+p262
+aS'Only The Lonely'
+p263
+aS'Only You'
+p264
+aS'Ordinary People'
+p265
+aS'Our Miss Brooks'
+p266
+aS'Paint Your Wagon'
+p267
+aS'Paper Lion'
+p268
+aS'Patton'
+p269
+aS'Picket Fences'
+p270
+aS'Pillow Talk'
+p271
+aS'Pink Cadillac'
+p272
+aS'Planet Of The Apes'
+p273
+aS'Platoon'
+p274
+aS'Play It Again Sam'
+p275
+aS'Porgy And Bess'
+p276
+aS'Postcards From The Edge'
+p277
+aS'Prelude To A Kiss'
+p278
+aS'Pretty Woman'
+p279
+aS'Private Lives'
+p280
+aS"Prizzi's Honor"
+p281
+aS'Problem Child'
+p282
+aS'Proud Mary'
+p283
+aS'Puff The Magic Dragon'
+p284
+aS'Pulp Fiction'
+p285
+aS'Pulp Fiction'
+p286
+aS'Pygmalion'
+p287
+aS'Quiz Show'
+p288
+aS'Raging Bull'
+p289
+aS'Rear Window'
+p290
+aS'Rebecca'
+p291
+aS'Reservoir Dogs'
+p292
+aS"Ripley's Believe It Or Not"
+p293
+aS'Risky Business'
+p294
+aS'Robin Hood Prince Of Thieves'
+p295
+aS'Rocky'
+p296
+aS'Roman Holiday'
+p297
+aS'Romancing The Stone'
+p298
+aS'Romeo And Juliet'
+p299
+aS'Running On Empty'
+p300
+aS'Saved By The Bell'
+p301
+aS'Scarecrow And Mrs. King'
+p302
+aS'Scent Of A Woman'
+p303
+aS'Sense And Sensibility'
+p304
+aS'Sesame Street'
+p305
+aS'Shall We Dance'
+p306
+aS'She Wore A Yellow Ribbon'
+p307
+aS'Shine On Harvest Moon'
+p308
+aS'Shining Star'
+p309
+aS'Shining Through'
+p310
+aS'Short Cuts'
+p311
+aS'Silver Bells'
+p312
+aS'Sister Act'
+p313
+aS'Six Degrees Of Separation'
+p314
+aS'Sleepless In Seattle'
+p315
+aS'Snow White And The Seven Dwarfs'
+p316
+aS'Some Kind Of Hero'
+p317
+aS"Sophie's Choice"
+p318
+aS'Speed'
+p319
+aS'Stagecoach'
+p320
+aS'Stand By Your Man'
+p321
+aS'Star Search'
+p322
+aS'Star Trek Deep Space Nine'
+p323
+aS'Star Trek Generations'
+p324
+aS'Star Trek Voyager'
+p325
+aS'Stardust Memories'
+p326
+aS'Stargate'
+p327
+aS'Starsky And Hutch'
+p328
+aS'Staying Alive'
+p329
+aS'Still Crazy After All These Years'
+p330
+aS'Stormy Weather'
+p331
+aS'Sunday In The Park'
+p332
+aS'Tales From The Crypt'
+p333
+aS'Taxi Driver'
+p334
+aS'Tender Is The Night'
+p335
+aS'Tender Mercies'
+p336
+aS'Tequila Sunrise'
+p337
+aS'That Girl'
+p338
+aS'The American President'
+p339
+aS'The Apartment'
+p340
+aS'The Bodyguard'
+p341
+aS'The Buddy Holly Story'
+p342
+aS'The Canterbury Tales'
+p343
+aS'The Citadel'
+p344
+aS'The Crying Game'
+p345
+aS'The Diary Of Anne Frank'
+p346
+aS'The Electric Horseman'
+p347
+aS'The Fabulous Baker Boys'
+p348
+aS"The Farmer's Daughter"
+p349
+aS'The Flintstones'
+p350
+aS'The Frugal Gourmet'
+p351
+aS'The Godfather'
+p352
+aS'The Goodbye Girl'
+p353
+aS'The Great Escape'
+p354
+aS'The Greatest Story Ever Told'
+p355
+aS'The Hustler'
+p356
+aS'The Iceman Cometh'
+p357
+aS'The Incredible Hulk'
+p358
+aS'The Incredible Journey'
+p359
+aS'The Jungle Book'
+p360
+aS'The Killing Fields'
+p361
+aS'The Little Rascals'
+p362
+aS'The Luci-Desi Comedy Hour'
+p363
+aS'The Mission'
+p364
+aS'The Money Pit'
+p365
+aS'The Right Stuff'
+p366
+aS'The River Wild'
+p367
+aS'The Santa Clause'
+p368
+aS'The Scarlet Letter'
+p369
+aS'The Shaggy Dog'
+p370
+aS'The Shawshank Redemption'
+p371
+aS'The Simpsons'
+p372
+aS'The Single Guy'
+p373
+aS'The Sound Of Music'
+p374
+aS'The Specialist'
+p375
+aS'The Terminator'
+p376
+aS'The Today Show'
+p377
+aS'The Turning Point'
+p378
+aS'The Unbearable Lightness Of Being'
+p379
+aS'The Verdict'
+p380
+aS'The Wackiest Ship In The Army'
+p381
+aS'The Wonder Years'
+p382
+aS'The X-Files'
+p383
+aS'The Age Of Innocence'
+p384
+aS'The Andy Griffith Show'
+p385
+aS'The Call Of The Wild'
+p386
+aS'The Champ'
+p387
+aS'The Circle Of Life'
+p388
+aS'The Color Of Money'
+p389
+aS'The Color Purple'
+p390
+aS'The Computer Wore Tennis Shoes'
+p391
+aS'The Cosby Show'
+p392
+aS'The Day The Earth Stood Still'
+p393
+aS'The Days And Nights Of Molly Dodd'
+p394
+aS'The Deer Hunter'
+p395
+aS'The Diary Of Anne Frank'
+p396
+aS'The Dirty Dozen'
+p397
+aS'The Gambler'
+p398
+aS'The Grapes Of Wrath'
+p399
+aS'The Green Hornet'
+p400
+aS'The Guns Of Navarone'
+p401
+aS'The Jackie Gleason Show'
+p402
+aS'The Last Boy Scout'
+p403
+aS'The Last Detail'
+p404
+aS'The Last Picture Show'
+p405
+aS'The Last Time I Saw Paris'
+p406
+aS'The Lion King'
+p407
+aS'The Little Prince'
+p408
+aS'The Living End'
+p409
+aS'The Lone Ranger'
+p410
+aS'The Long Goodbye'
+p411
+aS'The Lucy Show'
+p412
+aS'The Main Event'
+p413
+aS'The Man In The Iron Mask'
+p414
+aS'The Man Who Knew Too Much'
+p415
+aS'The Man Who Loved Cat Dancing'
+p416
+aS'The Mask'
+p417
+aS'The Member Of The Wedding'
+p418
+aS'The Mod Squad'
+p419
+aS'The Mommies'
+p420
+aS'The Mouse That Roared'
+p421
+aS'The Naked Truth'
+p422
+aS'The Nanny'
+p423
+aS'The Next Karate Kid'
+p424
+aS'The Night Has A Thousand Eyes'
+p425
+aS'The Nutty Professor'
+p426
+aS'The One That Got Away'
+p427
+aS'The Other Side Of The Mountain'
+p428
+aS'The Outer Limits'
+p429
+aS'The Patty Duke Show'
+p430
+aS'The Price Is Right'
+p431
+aS'The Pride Of The Yankees'
+p432
+aS'The Prince Of Tides'
+p433
+aS'The Real World'
+p434
+aS'The Red Pony'
+p435
+aS'The Sand Pebbles'
+p436
+aS'The Seven Percent Solution'
+p437
+aS'The Spy Who Came In From The Cold'
+p438
+aS'The Spy Who Loved Me'
+p439
+aS'The Sun Also Rises'
+p440
+aS'The Swiss Family Robinson'
+p441
+aS'The Sword In The Stone'
+p442
+aS'The Three Musketeers'
+p443
+aS'The Usual Suspects'
+p444
+aS'The Waltons'
+p445
+aS'The War'
+p446
+aS'The War Of The Roses'
+p447
+aS'The Way We Were'
+p448
+aS'The Wind In The Willows'
+p449
+aS'The Wizard Of Oz'
+p450
+aS'The Year Of Living Dangerously'
+p451
+aS'The Yellow Rose Of Texas'
+p452
+aS'The Young And The Restless'
+p453
+aS'Thelma & Louise'
+p454
+aS"There's No Business Like Show Business"
+p455
+aS'Three Days Of The Condor'
+p456
+aS'Till We Meet Again'
+p457
+aS'Timecop'
+p458
+aS'To Have And Have Not'
+p459
+aS'Tootsie'
+p460
+aS'Top Gun'
+p461
+aS'Top Hat'
+p462
+aS'Torn Between Two Lovers'
+p463
+aS'Troop Beverly Hills'
+p464
+aS'True Confessions'
+p465
+aS'True Lies'
+p466
+aS'Twin Peaks'
+p467
+aS'Twist And Shout'
+p468
+aS'Twister'
+p469
+aS'Two Gentlemen Of Verona'
+p470
+aS'Two Years Before The Mast'
+p471
+aS'Unforgiven'
+p472
+aS'Unsolved Mysteries'
+p473
+aS'Up The Down Staircase'
+p474
+aS'Voodoo Lounge'
+p475
+aS'Voyage To The Bottom Of The Sea'
+p476
+aS'Walking Tall'
+p477
+aS'Waterworld'
+p478
+aS"Weekend At Bernie's"
+p479
+aS'Welcome Back Kotter'
+p480
+aS"What's Eating Gilbert Grape"
+p481
+aS"What's My Line"
+p482
+aS"What's Love Got To Do With It"
+p483
+aS"What's New Pussycat"
+p484
+aS'When Dinosaurs Ruled The Earth'
+p485
+aS'When Harry Met Sally'
+p486
+aS'When Will I Be Loved'
+p487
+aS'When You Wish Upon A Star'
+p488
+aS'Where The Boys Are'
+p489
+aS'While You Were Sleeping'
+p490
+aS"White Men Can't Jump"
+p491
+aS'White Nights'
+p492
+aS'Who Framed Roger Rabbit'
+p493
+aS'Whose Life Is It Anyway'
+p494
+aS'Wild Thing'
+p495
+aS'Witness For The Prosecution'
+p496
+aS'Woman Of The Year'
+p497
+aS'Wonder Woman'
+p498
+aS'Working Girl'
+p499
+aS'Yellow Submarine'
+p500
+aS"You Can't Hurry Love"
+p501
+asS'Headline'
+p502
+(lp503
+S'Bill Clinton Elected For Second Term'
+p504
+aS'Charles & Diana Finalize Divorce'
+p505
+aS'Elvis Enlists In The U.S. Army'
+p506
+aS'Hubble Telescope Sends Dramatic Space Photos'
+p507
+aS'Jfk Jr. Secretly Weds Carolyn Bessette'
+p508
+aS'Madonna Gives Birth To A Baby Girl'
+p509
+aS'Michael Jackson & Lisa Marie Presley Divorce'
+p510
+aS'Sonny Bono Elected Mayor Of Palm Springs'
+p511
+aS'Thousands Log On To The Internet'
+p512
+aS'U.S. Sends Chimp Into Outer Space'
+p513
+aS'Watergate Scandal Forces Nixon To Resign'
+p514
+aS'Yankees Defeat Braves To Win The World Series'
+p515
+asS'Things'
+p516
+(lp517
+S'Action-Adventure Films'
+p518
+aS'Alfalfa Sprouts'
+p519
+aS'Asterisks'
+p520
+aS'Autumn Leaves'
+p521
+aS'Avocados Mangoes & Grapefruit'
+p522
+aS'Bacon And Eggs'
+p523
+aS'Bacon Bits'
+p524
+aS'Bagel With Lox And Cream Cheese'
+p525
+aS'Bartlett Pears'
+p526
+aS'Blueberry Muffins'
+p527
+aS'Boxing Gloves'
+p528
+aS'Bread Crumbs'
+p529
+aS'Breath Mints'
+p530
+aS'Bubbles'
+p531
+aS'Buffalo Chicken Wings'
+p532
+aS'Building Blocks'
+p533
+aS'Candied Yams With Marshmallows'
+p534
+aS'Checkers'
+p535
+aS'Chestnuts'
+p536
+aS'Chocolate Chips'
+p537
+aS'Circles'
+p538
+aS'Civil Rights'
+p539
+aS'Coat And Tie'
+p540
+aS'Coattails'
+p541
+aS'Coffee With Cream And Two Sugars'
+p542
+aS'Collectable Coins'
+p543
+aS'Cowboy Boots & Spurs'
+p544
+aS'Crab Cakes'
+p545
+aS'Crayons'
+p546
+aS'Detailed Descriptions'
+p547
+aS'Dewdrops'
+p548
+aS'Dill Rosemary & Thyme'
+p549
+aS'Dining Room Chairs'
+p550
+aS'Directions'
+p551
+aS'Dirt And Grime'
+p552
+aS'Dirty Dishes'
+p553
+aS'Dog Tags'
+p554
+aS'Dominoes'
+p555
+aS'Double Doors'
+p556
+aS'Economic Indicators'
+p557
+aS'Endangered Species'
+p558
+aS'Espresso Cappuccino & Decaf Coffee'
+p559
+aS'Eyelids'
+p560
+aS'Fangs'
+p561
+aS'Farm Animals'
+p562
+aS'Fiber Optics'
+p563
+aS'Filters'
+p564
+aS'Final Exams'
+p565
+aS'Fireworks'
+p566
+aS'Flames'
+p567
+aS'Flesh And Blood'
+p568
+aS'Footlights'
+p569
+aS'Forget-Me-Nots'
+p570
+aS'Freckles'
+p571
+aS'Fringe Benefits'
+p572
+aS'Funny Papers'
+p573
+aS'Gale Force Winds'
+p574
+aS'Golf Clubs'
+p575
+aS'Goods And Services'
+p576
+aS'Groceries'
+p577
+aS'Guard Dogs'
+p578
+aS'Guest Towels'
+p579
+aS'Hammer And Nails'
+p580
+aS'Hand-Me-Down Clothes'
+p581
+aS'Handcuffs'
+p582
+aS'Hash Brown Potatoes'
+p583
+aS'Hearts Diamonds Clubs & Spades'
+p584
+aS'Hidden Compartments'
+p585
+aS'High Marks'
+p586
+aS'House Keys'
+p587
+aS'Household Hints'
+p588
+aS'Houseplants'
+p589
+aS'Hush Puppies'
+p590
+aS'Illustrations'
+p591
+aS'Incentives'
+p592
+aS'Investments'
+p593
+aS'Jumping Jacks'
+p594
+aS'Kidney Beans'
+p595
+aS'Ladyfingers'
+p596
+aS'Leather Gloves'
+p597
+aS'Limited Resources'
+p598
+aS'Living Room Drapes'
+p599
+aS'Lyrics'
+p600
+aS'Macaroni And Cheese'
+p601
+aS'Missed Opportunities'
+p602
+aS'Mistakes'
+p603
+aS'Morning Exercises'
+p604
+aS'Mountain Climbing Equipment'
+p605
+aS'Municipal Bonds'
+p606
+aS'Mushrooms'
+p607
+aS'Musical Instruments'
+p608
+aS'Napkins'
+p609
+aS'Newspaper Articles'
+p610
+aS'Numbers'
+p611
+aS'Numerator And Denominator'
+p612
+aS'Nursery Rhymes'
+p613
+aS'Nylon Stockings'
+p614
+aS'Office Furniture'
+p615
+aS'Orange Blossoms'
+p616
+aS'Oranges'
+p617
+aS'Overhead Lights'
+p618
+aS'Pancakes'
+p619
+aS'Pies And Tarts'
+p620
+aS'Pine Needles'
+p621
+aS'Pine Nuts'
+p622
+aS'Pink Elephants'
+p623
+aS'Pins And Needles'
+p624
+aS'Plants'
+p625
+aS'Polo Ponies'
+p626
+aS'Prayer Beads'
+p627
+aS'Push Pins'
+p628
+aS'Questions'
+p629
+aS'Radial Tires'
+p630
+aS'Record Books'
+p631
+aS'Reference Books'
+p632
+aS'Regular Examinations'
+p633
+aS'Replacement Parts'
+p634
+aS'Restrictions'
+p635
+aS'Rhinestones'
+p636
+aS'Rice Cakes'
+p637
+aS'Riding Boots'
+p638
+aS'Roman Numerals'
+p639
+aS'Saddle Bags'
+p640
+aS'Sale Merchandise'
+p641
+aS'Salt And Pepper'
+p642
+aS'Sand Dunes'
+p643
+aS'Sandals'
+p644
+aS'Sandy Beaches'
+p645
+aS'Saplings'
+p646
+aS'Scallions'
+p647
+aS'Scallops'
+p648
+aS'Seashells'
+p649
+aS'Shampoo & Conditioner'
+p650
+aS'Sideburns'
+p651
+aS'Sled Dogs'
+p652
+aS'Soybeans'
+p653
+aS'Spade Shovel & Hoe'
+p654
+aS'Spare Parts'
+p655
+aS'Stained Glass Windows'
+p656
+aS'Standard Requirements'
+p657
+aS'Statistics'
+p658
+aS'Stereo Components'
+p659
+aS'Streamers'
+p660
+aS'Student Lectures'
+p661
+aS'Sugar Cubes'
+p662
+aS'Syllables'
+p663
+aS'Tax Deductions'
+p664
+aS'Telephone Directories'
+p665
+aS'Television Networks'
+p666
+aS'Toothpicks'
+p667
+aS'Tree Branches'
+p668
+aS'Tropical Flowers'
+p669
+aS'Twin Rollaway & Double Beds'
+p670
+aS'Used Automobiles'
+p671
+aS'Vegetables'
+p672
+aS'Verbal Commands'
+p673
+aS'Vital Statistics'
+p674
+aS'Vitamins And Minerals'
+p675
+aS'Watercolors'
+p676
+aS'Weather Forecasts'
+p677
+aS'Weeks And Months'
+p678
+aS'Wild Beasts'
+p679
+aS'Wild Horses'
+p680
+aS'Wooden Shoes'
+p681
+aS'Written Estimates'
+p682
+aS'Yellow Daisies'
+p683
+aS'Zoo Animals'
+p684
+asS'Artist & Song'
+p685
+(lp686
+S"Barbra Streisand's Memory"
+p687
+aS"Barbra Streisand's The Way We Were"
+p688
+aS"Billy Joel's The Piano Man"
+p689
+aS"Bing Crosby's White Christmas"
+p690
+aS"Bob Hope's Thanks For The Memory"
+p691
+aS"Bruce Springsteen's Born In The USA"
+p692
+aS"Elton John's Goodbye Yellow Brick Road"
+p693
+aS"Frank Sinatra's My Way"
+p694
+aS"James Taylor's You've Got A Friend"
+p695
+aS"John Lennon's Imagine"
+p696
+aS"Judy Garland's Over The Rainbow"
+p697
+aS"Liza Minelli's New York New York"
+p698
+aS"Louis Armstrong's Hello Dolly"
+p699
+aS"Paul Simon's Slip Slidin' Away"
+p700
+aS"The Beatles' Hey Jude"
+p701
+aS"The Village People's YMCA"
+p702
+aS"Whitney Houston's I Will Always Love You"
+p703
+asS'Fictional Character'
+p704
+(lp705
+S'Aphrodite'
+p706
+aS'Babar King Of The Elephants'
+p707
+aS'Batman'
+p708
+aS'Betty Rubble'
+p709
+aS'Bugs Bunny'
+p710
+aS'Count Dracula'
+p711
+aS'Daffy Duck'
+p712
+aS'Elmer Fudd'
+p713
+aS'Flash Gordon'
+p714
+aS'Huckleberry Finn'
+p715
+aS'Indiana Jones'
+p716
+aS'Jack Be Nimble'
+p717
+aS'Johnny Appleseed'
+p718
+aS'Lady Macbeth'
+p719
+aS'Leprechaun'
+p720
+aS'Little Red Riding Hood'
+p721
+aS'Mother Goose'
+p722
+aS'Nancy Drew'
+p723
+aS'Olive Oyl'
+p724
+aS'Papa Bear'
+p725
+aS'Perry Mason'
+p726
+aS'Pocahontas'
+p727
+aS'Popeye The Sailor Man'
+p728
+aS'Quick-Draw McGraw'
+p729
+aS'Rip Van Winkle'
+p730
+aS'Simba'
+p731
+aS'Simple Simon'
+p732
+aS'Snow White'
+p733
+aS'The Cheshire Cat'
+p734
+aS'The Frog Prince'
+p735
+aS'The Sandman'
+p736
+aS'The Sheriff Of Nottingham'
+p737
+aS"The Glass Menagerie's Gentleman Caller"
+p738
+aS'The Man In The Moon'
+p739
+aS'Tiny Tim'
+p740
+aS'Tom Sawyer'
+p741
+aS'Unicorn'
+p742
+aS"Walt Kelly's Pogo The Possum"
+p743
+aS'Wee Willie Winkie'
+p744
+aS'Wilma Flintstone'
+p745
+aS'Wise Old Owl'
+p746
+aS'Yosemite Sam'
+p747
+asS'The Seventies'
+p748
+(lp749
+S'Apple Starts Producing Personal Computers'
+p750
+aS'Egypt & Israel Sign Historic Peace Treaty'
+p751
+aS'Evita & A Chorus Line Are Broadway Hits'
+p752
+aS'First Test-Tube Baby Born'
+p753
+aS'Mark Spitz Wins Seven Olympic Gold Medals'
+p754
+aS'The U.S. Celebrates Its Bicentennial'
+p755
+aS'U.S. Signs Treaty Returning Panama Canal'
+p756
+asS'Show Biz'
+p757
+(lp758
+S"Audrey Hepburn Has Breakfast At Tiffany's"
+p759
+aS'Bob Hope Entertains The Troops'
+p760
+aS'Bob Hope & Bing Crosby Star In Road Movies'
+p761
+aS'Comic Relief Farm Aid & Live Aid'
+p762
+aS'Late Night Talk Show Wars'
+p763
+aS'Paramount & Warner Brothers Start TV Networks'
+p764
+aS'Sylvester Stallone Makes Five Rocky Movies'
+p765
+aS'The Beatles Appear On The Ed Sullivan Show'
+p766
+aS'The Muppets Get Their Own TV Show'
+p767
+asS'The Sixties'
+p768
+(lp769
+S'Lyndon Johnson Re-Elected As President'
+p770
+aS'Medicare Provides Aid To The Elderly'
+p771
+aS'National Organization For Women Founded'
+p772
+aS'Soviets Erect Berlin Wall'
+p773
+aS'Thousands Attend Concert At Woodstock'
+p774
+asS'Classic TV'
+p775
+(lp776
+S'Charlie Brown & Snoopy Come To Television'
+p777
+aS'Gilligan & Friends Take A Three-Hour Tour'
+p778
+aS'Gunsmoke Rawhide & Bonanza'
+p779
+aS'How Sweet It Is'
+p780
+aS"I'm So Glad We Had This Time Together"
+p781
+aS'Jack Webb Stars In Dragnet'
+p782
+aS'Lassie & Flipper'
+p783
+aS'Lucy & Ethel Get Into Trouble On I Love Lucy'
+p784
+aS'Mork & Mindy'
+p785
+aS'My Favorite Martian'
+p786
+aS'Oh I Wish I Were An Oscar Mayer Weiner'
+p787
+aS'See The USA In Your Chevrolet'
+p788
+aS'Sid Caesar & Imogene Coca In Your Show Of Shows'
+p789
+aS'Star Trek & Lost In Space'
+p790
+aS'The Jetsons & The Flintstones'
+p791
+aS'The Lone Ranger & Tonto'
+p792
+aS'The Munsters & The Addams Family'
+p793
+aS'Wheel Of Fortune Debuts On Nighttime Television'
+p794
+asS'Same Name'
+p795
+(lp796
+S'Barnaby & Me And Mrs Jones'
+p797
+aS'Barney & Mitch Miller'
+p798
+aS"Bird's & Empty Nest"
+p799
+aS"Breaking & I'll Fly Away"
+p800
+aS'Cat On A Hot Tin & Fiddler On The Roof'
+p801
+aS'Clean-Up & Pancake Batter'
+p802
+aS'Death & Lily Of The Valley'
+p803
+aS'Designing & Little Women'
+p804
+aS'Dog Day & Sunday Afternoon'
+p805
+aS'Eager & Leave It To Beaver'
+p806
+aS'Ella & F. Scott Fitzgerald'
+p807
+aS'Ellis & Fantasy Island'
+p808
+aS'Evening & Window Shade'
+p809
+aS"Fantasy & Gilligan's Island"
+p810
+aS'Flower And Taste Buds'
+p811
+aS'Foul & One-Act Play'
+p812
+aS'Full & Open House'
+p813
+aS'George & Burning Bush'
+p814
+aS"Gilligan's & Treasure Island"
+p815
+aS'Glory & Happy Days'
+p816
+aS'Golf & Cuff Links'
+p817
+aS'Good Morning & North America'
+p818
+aS'Groucho & Karl Marx'
+p819
+aS'Head Over & High Heels'
+p820
+aS'Helen & Sea Hunt'
+p821
+aS'Highway To & Pennies From Heaven'
+p822
+aS'Hugh & Churchill Downs'
+p823
+aS'Human & Mother Nature'
+p824
+aS'Japanese & Volkswagen Beetle'
+p825
+aS'Johnny & Kit Carson'
+p826
+aS'Key & Adam West'
+p827
+aS'Knots & Moon Landing'
+p828
+aS'Liberty & Alexander Graham Bell'
+p829
+aS'Michael & New York'
+p830
+aS'Mister & Kenny Rogers'
+p831
+aS'Monty & Annie Hall'
+p832
+aS'Murphy & James Brown'
+p833
+aS'Natalie & Old King Cole'
+p834
+aS'Neck & Family Ties'
+p835
+aS'Night & Order In The Court'
+p836
+aS'Panama & Root Canal'
+p837
+aS'Piccadilly & Three-Ring Circus'
+p838
+aS'Pool & Great White Shark'
+p839
+aS'President James & Marilyn Monroe'
+p840
+aS'Rodeo & Midnight Cowboy'
+p841
+aS'Root Beer & Orange Bowl Parade Floats'
+p842
+aS'Roy Will & Kenny Rogers'
+p843
+aS'Spike & Robert E. Lee'
+p844
+aS'Sweet & Field Of Dreams'
+p845
+aS'The Deer & Holly Hunter'
+p846
+aS'The Lone & Park Ranger'
+p847
+asS'Author & Title'
+p848
+(lp849
+S'For Whom The Bell Tolls By Ernest Hemingway'
+p850
+aS'Pride & Prejudice By Jane Austen'
+p851
+aS'Tales Of The South Pacific By James Michener'
+p852
+aS'The Great Gatsby By F. Scott Fitzgerald'
+p853
+aS'The Hunt For Red October By Tom Clancy'
+p854
+aS'The Right Stuff By Tom Wolfe'
+p855
+aS'The Tale Of Peter Rabbit By Beatrix Potter'
+p856
+aS'The World According To Garp By John Irving'
+p857
+asS'Song/Show'
+p858
+(lp859
+S'A Whole New World From Aladdin'
+p860
+aS'Colors Of The World From Pocahontas'
+p861
+aS"Don't Cry For Me Argentina From Evita"
+p862
+aS'Getting To Know You From The King And I'
+p863
+aS'I Could Have Danced All Night From My Fair Lady'
+p864
+aS'I Feel Pretty From West Side Story'
+p865
+aS'Memory From Cats'
+p866
+aS'Under The Sea From The Little Mermaid'
+p867
+aS'What I Did For Love From A Chorus Line'
+p868
+asS'Thing'
+p869
+(lp870
+S'A Glass Of Chablis'
+p871
+aS'A Kind Word'
+p872
+aS'A Lump Of Coal In Your Stocking'
+p873
+aS'Abbreviation'
+p874
+aS'Accident'
+p875
+aS'Accomplishment'
+p876
+aS'Achievement Award'
+p877
+aS'Acorn'
+p878
+aS'Acupuncture'
+p879
+aS'Adhesive Tape'
+p880
+aS'Adventure Story'
+p881
+aS'Adversity'
+p882
+aS'Advertising Agency'
+p883
+aS'Afghan Hound'
+p884
+aS'After-Dinner Drink'
+p885
+aS'Afternoon Snack'
+p886
+aS'Airplane'
+p887
+aS'Alarm Clock'
+p888
+aS'Algebra Textbook'
+p889
+aS'Allergy Shot'
+p890
+aS'Amber'
+p891
+aS'Amendment'
+p892
+aS'An Even Tan'
+p893
+aS'An Hour'
+p894
+aS'Anatomy'
+p895
+aS'Ancient History'
+p896
+aS'Anteater'
+p897
+aS'Antibiotic'
+p898
+aS'Apology'
+p899
+aS'Apple'
+p900
+aS'Appointment'
+p901
+aS'Aquamarine'
+p902
+aS'Aquarium'
+p903
+aS'Arrow'
+p904
+aS'Arrowhead'
+p905
+aS'Atmosphere'
+p906
+aS'Avocado'
+p907
+aS'Award'
+p908
+aS'Baby Face'
+p909
+aS'Baby Talk'
+p910
+aS"Baby's Crib"
+p911
+aS'Backpack'
+p912
+aS'Backup Generator'
+p913
+aS'Badger'
+p914
+aS'Bald Eagle'
+p915
+aS'Ball-Point Pen'
+p916
+aS'Ballad'
+p917
+aS'Balloon'
+p918
+aS'Bamboo'
+p919
+aS'Banana'
+p920
+aS'Banana Peel'
+p921
+aS'Barrage Of Questions'
+p922
+aS'Baseball Bat'
+p923
+aS'Baseball Cap'
+p924
+aS'Basket'
+p925
+aS'Basset Hound'
+p926
+aS'Bathroom Scale'
+p927
+aS'Bathtub'
+p928
+aS'Baton'
+p929
+aS'Battery'
+p930
+aS'Bay Window'
+p931
+aS'Beacon'
+p932
+aS'Beagle'
+p933
+aS'Bedspread'
+p934
+aS'Biography'
+p935
+aS'Birch Tree'
+p936
+aS'Birthmark'
+p937
+aS'Birthright'
+p938
+aS'Black Belt In Karate'
+p939
+aS'Black Bear'
+p940
+aS'Black Hole In Outer Space'
+p941
+aS'Blackberry'
+p942
+aS'Blackbird'
+p943
+aS'Blender'
+p944
+aS'Blood Type'
+p945
+aS'Bloodhound'
+p946
+aS'Blossom'
+p947
+aS'Blue Chip Stock'
+p948
+aS'Blueprint'
+p949
+aS'Board Game'
+p950
+aS'Book Review'
+p951
+aS'Boot Polish'
+p952
+aS'Bottomless Pit'
+p953
+aS'Box Score'
+p954
+aS'Boxcar'
+p955
+aS'Bracelet'
+p956
+aS'Braille'
+p957
+aS'Bread Machine'
+p958
+aS'Briefcase'
+p959
+aS'Brontosaurus'
+p960
+aS'Brush Stroke'
+p961
+aS'Bubble Bath'
+p962
+aS'Bulldog'
+p963
+aS'Bullet'
+p964
+aS'Bushel Basket'
+p965
+aS'Butter Churn'
+p966
+aS'Button'
+p967
+aS'Buttonhole'
+p968
+aS'Calculator'
+p969
+aS'Calendar'
+p970
+aS'Can Opener'
+p971
+aS'Can Of Soda'
+p972
+aS'Canceled Stamp'
+p973
+aS'Candlestick'
+p974
+aS'Candy Cane'
+p975
+aS'Canoe Paddle'
+p976
+aS'Canteen'
+p977
+aS'Cappuccino Maker'
+p978
+aS'Care Package'
+p979
+aS'Carrot Cake'
+p980
+aS'Catalog'
+p981
+aS'Catamaran'
+p982
+aS'Catapult'
+p983
+aS'Category'
+p984
+aS'Cathedral'
+p985
+aS'Cauliflower'
+p986
+aS'Cedar'
+p987
+aS'Ceiling Fan'
+p988
+aS'Cellular Phone'
+p989
+aS'Centimeter'
+p990
+aS'Chalk'
+p991
+aS'Cheese'
+p992
+aS'Cheetah'
+p993
+aS'Chemical Formula'
+p994
+aS'Chessboard'
+p995
+aS'Chicken'
+p996
+aS'Chicken Fried Steak'
+p997
+aS'Chimpanzee'
+p998
+aS'Chipmunk'
+p999
+aS'Chord'
+p1000
+aS'Chorus'
+p1001
+aS'Christmas Bonus'
+p1002
+aS'Church Bell'
+p1003
+aS'Clam Chowder'
+p1004
+aS'Cleanser'
+p1005
+aS'Closet Space'
+p1006
+aS'Cloverleaf'
+p1007
+aS'Coat And Tie'
+p1008
+aS'Cocker Spaniel'
+p1009
+aS'Coffee Cake'
+p1010
+aS'Coincidence'
+p1011
+aS'Coincidence'
+p1012
+aS'College Scholarship'
+p1013
+aS'Community'
+p1014
+aS'Companionship'
+p1015
+aS'Computer'
+p1016
+aS'Confidence'
+p1017
+aS'Conifer Tree'
+p1018
+aS'Constellation'
+p1019
+aS'Contemporary Jazz'
+p1020
+aS'Controversy'
+p1021
+aS'Cookie Cutter'
+p1022
+aS'Corkscrew'
+p1023
+aS'Corn Bread'
+p1024
+aS'Cornucopia'
+p1025
+aS'Cottage'
+p1026
+aS'Counter'
+p1027
+aS'Court Case'
+p1028
+aS'Cover Charge'
+p1029
+aS'Cranberry'
+p1030
+aS'Crane'
+p1031
+aS'Cypress Tree'
+p1032
+aS'Dachshund'
+p1033
+aS'Dalmatian'
+p1034
+aS'Dear John Letter'
+p1035
+aS'Dial Tone'
+p1036
+aS'Dictionary Definition'
+p1037
+aS'Dijon Mustard'
+p1038
+aS'Dinosaur'
+p1039
+aS'Diplomatic Immunity'
+p1040
+aS'Dirty Trick'
+p1041
+aS'Doberman Pinscher'
+p1042
+aS'Dolphin'
+p1043
+aS'Doorstep'
+p1044
+aS'Doorstop'
+p1045
+aS'Dot Matrix Printer'
+p1046
+aS'Double Negative'
+p1047
+aS'Double-Decker Bus'
+p1048
+aS'Douglas Fir'
+p1049
+aS'Dow Jones Industrial Average'
+p1050
+aS'Dragon'
+p1051
+aS'Dripping Faucet'
+p1052
+aS'Drive-In Movie'
+p1053
+aS'Duet'
+p1054
+aS'Duffel Bag'
+p1055
+aS'Dump Truck'
+p1056
+aS'Dutch Elm Disease'
+p1057
+aS'Earthworm'
+p1058
+aS'Easter Lily'
+p1059
+aS'Eggplant Parmigiana'
+p1060
+aS"Einstein's Theory Of Relativity"
+p1061
+aS'Electric Blanket'
+p1062
+aS'Electricity'
+p1063
+aS'Element'
+p1064
+aS'Elephant'
+p1065
+aS'Elm Tree'
+p1066
+aS'Empty Nest'
+p1067
+aS'End Table'
+p1068
+aS'English Translation'
+p1069
+aS'Entertainment'
+p1070
+aS'Envelope'
+p1071
+aS'Escape Hatch'
+p1072
+aS'Estimate'
+p1073
+aS'Etching'
+p1074
+aS'Evergreen Tree'
+p1075
+aS'Evidence'
+p1076
+aS'Expense Account'
+p1077
+aS'Express Lane'
+p1078
+aS'Extension Cord'
+p1079
+aS'Extension Ladder'
+p1080
+aS'Extra-Large Size'
+p1081
+aS'Falcon'
+p1082
+aS'False Alarm'
+p1083
+aS'Family Heirloom'
+p1084
+aS'Family Name'
+p1085
+aS'Felt Tip Pen'
+p1086
+aS'Filter'
+p1087
+aS'Final Adjustment'
+p1088
+aS'Finch'
+p1089
+aS'Finger Food'
+p1090
+aS'Finger Paint'
+p1091
+aS'Fingernail'
+p1092
+aS'Finish Line'
+p1093
+aS'Fire Hose'
+p1094
+aS'Fire Insurance'
+p1095
+aS'Fireplace'
+p1096
+aS'Firewood'
+p1097
+aS'First Day Of The Month'
+p1098
+aS'First-Class Mail'
+p1099
+aS'Five-Digit Zip Code'
+p1100
+aS'Flashlight'
+p1101
+aS'Flat Tire'
+p1102
+aS'Flavor Of The Month'
+p1103
+aS'Flood Insurance'
+p1104
+aS'Floor Plan'
+p1105
+aS'Floppy Disk'
+p1106
+aS'Flower Arrangement'
+p1107
+aS'Flu Vaccination'
+p1108
+aS'Flu Shot'
+p1109
+aS'Fluorescent Light'
+p1110
+aS'Flying Fish'
+p1111
+aS'Food Processor'
+p1112
+aS'Footrest'
+p1113
+aS'Form Letter'
+p1114
+aS'Fountain Of Youth'
+p1115
+aS'Fountain Pen'
+p1116
+aS'Fox Terrier'
+p1117
+aS'Free Enterprise'
+p1118
+aS'Free Offer'
+p1119
+aS'French Bread'
+p1120
+aS'French Horn'
+p1121
+aS'French Poodle'
+p1122
+aS'Frisbee'
+p1123
+aS'Fruit Punch'
+p1124
+aS'Funnel'
+p1125
+aS'Gall Bladder'
+p1126
+aS'Gallon'
+p1127
+aS'Gander'
+p1128
+aS'Garden Hose'
+p1129
+aS'Gardenia'
+p1130
+aS'General Assessment'
+p1131
+aS'Geometry'
+p1132
+aS'Get-Rich-Quick Scheme'
+p1133
+aS'Giggle'
+p1134
+aS'Gingerbread'
+p1135
+aS'Goat Cheese'
+p1136
+aS'Golden Retriever'
+p1137
+aS'Good Advice'
+p1138
+aS'Good Penmanship'
+p1139
+aS'Grab Bag'
+p1140
+aS'Grape'
+p1141
+aS'Graph Paper'
+p1142
+aS'Gravel'
+p1143
+aS'Grease Paint'
+p1144
+aS'Great White Shark'
+p1145
+aS'Great Dane'
+p1146
+aS'Greek Food'
+p1147
+aS'Green Grass'
+p1148
+aS'Greyhound'
+p1149
+aS'Grizzly Bear'
+p1150
+aS'Ground Beef'
+p1151
+aS'Groundhog'
+p1152
+aS'Group Rate'
+p1153
+aS'Growth Rate'
+p1154
+aS'Guide Dog'
+p1155
+aS'Guilty Conscience'
+p1156
+aS'Gutter'
+p1157
+aS'Haircut'
+p1158
+aS'Hairstyle'
+p1159
+aS'Half An Hour'
+p1160
+aS'Ham And Cheese Sandwich'
+p1161
+aS'Handbook'
+p1162
+aS'Handlebar Mustache'
+p1163
+aS'Handwriting'
+p1164
+aS'Happiness'
+p1165
+aS'Help Wanted Ad'
+p1166
+aS'Hemlock'
+p1167
+aS'Hickory'
+p1168
+aS'High Fever'
+p1169
+aS'High School Diploma'
+p1170
+aS'High-Fiber Cereal'
+p1171
+aS'High-Five'
+p1172
+aS'Higher Education'
+p1173
+aS'Hippopotamus'
+p1174
+aS'Hiring Freeze'
+p1175
+aS'Holy Roman Empire'
+p1176
+aS'Homesickness'
+p1177
+aS'Homework Assignment'
+p1178
+aS'Honeybee'
+p1179
+aS'Hook Shot'
+p1180
+aS'Hoot Owl'
+p1181
+aS'Horizon'
+p1182
+aS"Hornet's Nest"
+p1183
+aS'Horoscope'
+p1184
+aS'Horseradish'
+p1185
+aS'Hot Compress'
+p1186
+aS'Hot Sauce'
+p1187
+aS'Hourglass'
+p1188
+aS'Houseboat'
+p1189
+aS'Huckleberry'
+p1190
+aS'Human Nature'
+p1191
+aS'Humility'
+p1192
+aS'Ice Pick'
+p1193
+aS'Income Tax'
+p1194
+aS'Indelible Ink'
+p1195
+aS'Initiative'
+p1196
+aS'Inner Tube'
+p1197
+aS'Invisible Ink'
+p1198
+aS'Irish Setter'
+p1199
+aS'Jade Pendant'
+p1200
+aS'Jaguar'
+p1201
+aS'Javelin'
+p1202
+aS'Jawbone'
+p1203
+aS'Jazz Music'
+p1204
+aS'Jelly Doughnut'
+p1205
+aS'Journal'
+p1206
+aS'Journalism'
+p1207
+aS'Keepsake'
+p1208
+aS'Kentucky Bluegrass'
+p1209
+aS'Keynote Address'
+p1210
+aS'Kickstand'
+p1211
+aS'Kid Gloves'
+p1212
+aS'Kilogram'
+p1213
+aS'Knee Jerk Reaction'
+p1214
+aS'Knockout Blow'
+p1215
+aS'Knot'
+p1216
+aS'Knotty Pine'
+p1217
+aS'Laptop Computer'
+p1218
+aS'Lasagna'
+p1219
+aS'Laser Printer'
+p1220
+aS'Lasso'
+p1221
+aS'Laughter'
+p1222
+aS'Laundry Cart'
+p1223
+aS'Lawn Mower'
+p1224
+aS'Leaf Blower'
+p1225
+aS"Learner's Permit"
+p1226
+aS'Leopard'
+p1227
+aS'Lettuce'
+p1228
+aS'Lhasa Apso'
+p1229
+aS"Liar's Poker"
+p1230
+aS'Life Preserver'
+p1231
+aS'Lifeboat'
+p1232
+aS'Light'
+p1233
+aS'Lighthouse'
+p1234
+aS'Lightning'
+p1235
+aS'Limestone'
+p1236
+aS'Liter'
+p1237
+aS'Lithograph'
+p1238
+aS'Litmus Test'
+p1239
+aS'Little Black Book'
+p1240
+aS'Lobster'
+p1241
+aS'Lock Of Hair'
+p1242
+aS'Loophole'
+p1243
+aS'Loudspeaker'
+p1244
+aS'Lovebird'
+p1245
+aS'Low-Cholesterol Diet'
+p1246
+aS'Low-Fat Diet'
+p1247
+aS'Macaw'
+p1248
+aS'Magic Carpet'
+p1249
+aS'Magic Marker'
+p1250
+aS'Mallard'
+p1251
+aS'Mandarin Orange'
+p1252
+aS'Mango'
+p1253
+aS'Mangrove'
+p1254
+aS'Mannequin'
+p1255
+aS'Map Of The World'
+p1256
+aS'Maple Tree'
+p1257
+aS'Marmalade'
+p1258
+aS'Marriage'
+p1259
+aS'Marshmallow'
+p1260
+aS'Masterpiece'
+p1261
+aS'Matchbook'
+p1262
+aS'Maternal Instinct'
+p1263
+aS'Meadow'
+p1264
+aS'Melody'
+p1265
+aS'Melon'
+p1266
+aS'Melted Cheese'
+p1267
+aS'Memoir'
+p1268
+aS'Memorandum'
+p1269
+aS'Memory'
+p1270
+aS'Metaphor'
+p1271
+aS'Meter'
+p1272
+aS'Mexican Sombrero'
+p1273
+aS'Microphone'
+p1274
+aS'Microscope'
+p1275
+aS'Microwave Oven'
+p1276
+aS'Mint Julep'
+p1277
+aS'Minus Sign'
+p1278
+aS'Minute'
+p1279
+aS'Mixed Blessing'
+p1280
+aS'Mobile Phone'
+p1281
+aS'Monday Morning Traffic'
+p1282
+aS'Monkey'
+p1283
+aS'Monument'
+p1284
+aS'Morning Glory'
+p1285
+aS'Motorcycle'
+p1286
+aS'Mountain Bike'
+p1287
+aS'Mountain Goat'
+p1288
+aS'Mountain Lion'
+p1289
+aS'Mountain Range'
+p1290
+aS'Multiple-Choice Question'
+p1291
+aS'Mushroom'
+p1292
+aS'Mustard'
+p1293
+aS'Mutual Understanding'
+p1294
+aS'Navy Blue Suit'
+p1295
+aS'Necklace'
+p1296
+aS'Negative Feedback'
+p1297
+aS'Neon Sign'
+p1298
+aS'Net Profit'
+p1299
+aS'Newspaper'
+p1300
+aS'Night Table'
+p1301
+aS'Nightgown'
+p1302
+aS'Nightingale'
+p1303
+aS'Noisemaker'
+p1304
+aS'Nonstop Flight'
+p1305
+aS'Nourishment'
+p1306
+aS'Nuclear Physics'
+p1307
+aS'Nuclear Power Plant'
+p1308
+aS'Oak Tree'
+p1309
+aS'Oatmeal'
+p1310
+aS'Obligation'
+p1311
+aS'Octopus'
+p1312
+aS'Oil Well'
+p1313
+aS'Old English Sheepdog'
+p1314
+aS'Olive Oil'
+p1315
+aS'Opera'
+p1316
+aS'Opinion'
+p1317
+aS'Orange'
+p1318
+aS'Orange Blossom'
+p1319
+aS'Orange Tree'
+p1320
+aS'Ornament'
+p1321
+aS'Ounce'
+p1322
+aS'Over-The-Counter Medication'
+p1323
+aS'Pair Of Pants'
+p1324
+aS'Palm Tree'
+p1325
+aS'Pamphlet'
+p1326
+aS'Panda'
+p1327
+aS'Pane Of Glass'
+p1328
+aS'Papaya'
+p1329
+aS'Paragraph'
+p1330
+aS'Park Bench'
+p1331
+aS'Parking Meter'
+p1332
+aS'Parrot'
+p1333
+aS'Pause'
+p1334
+aS'Pay-Per-View Television'
+p1335
+aS'Peace Offering'
+p1336
+aS'Peach'
+p1337
+aS'Peach Cobbler'
+p1338
+aS'Pear Tree'
+p1339
+aS'Peat Moss'
+p1340
+aS'Pecan'
+p1341
+aS'Peck Of Pickled Peppers'
+p1342
+aS'Pedestal'
+p1343
+aS'Peer Pressure'
+p1344
+aS'Penguin'
+p1345
+aS'Percolator'
+p1346
+aS'Perfect Pitch'
+p1347
+aS'Periscope'
+p1348
+aS'Phone Call'
+p1349
+aS'Piece Of Pie'
+p1350
+aS'Pigeon'
+p1351
+aS'Pillow'
+p1352
+aS'Pilot Light'
+p1353
+aS'Pine Tree'
+p1354
+aS'Pint Of Milk'
+p1355
+aS'Pipe Dream'
+p1356
+aS'Plastic Surgery'
+p1357
+aS'Pocket'
+p1358
+aS'Pocket Comb'
+p1359
+aS'Poetic Justice'
+p1360
+aS'Poetic License'
+p1361
+aS'Polar Ice Cap'
+p1362
+aS'Pollution'
+p1363
+aS'Popcorn'
+p1364
+aS'Pork Chop'
+p1365
+aS'Porpoise'
+p1366
+aS'Porterhouse Steak'
+p1367
+aS'Porthole'
+p1368
+aS'Postponement'
+p1369
+aS'Pound'
+p1370
+aS'Prayer Book'
+p1371
+aS'Press Pass'
+p1372
+aS'Pressure Cooker'
+p1373
+aS'Prime Time Television'
+p1374
+aS'Printing Press'
+p1375
+aS'Prompt Response'
+p1376
+aS'Proper Noun'
+p1377
+aS'Prosperity'
+p1378
+aS'Public Address System'
+p1379
+aS'Pulitzer Prize'
+p1380
+aS'Pulley'
+p1381
+aS'Pup Tent'
+p1382
+aS'Puppet Show'
+p1383
+aS'Purchase Order'
+p1384
+aS'Putting Green'
+p1385
+aS'Pyramid'
+p1386
+aS'Python'
+p1387
+aS'Quantum Physics'
+p1388
+aS'Quart'
+p1389
+aS'Quartz Watch'
+p1390
+aS'Rabbit'
+p1391
+aS'Racehorse'
+p1392
+aS'Radio Broadcast'
+p1393
+aS'Railroad'
+p1394
+aS'Rainbow'
+p1395
+aS'Rap Music'
+p1396
+aS'Raspberry'
+p1397
+aS'Ratings System'
+p1398
+aS'Rattlesnake'
+p1399
+aS'Raven'
+p1400
+aS'Ream Of Paper'
+p1401
+aS'Receding Hairline'
+p1402
+aS'Recipe'
+p1403
+aS'Recliner'
+p1404
+aS'Record Album'
+p1405
+aS'Rectangle'
+p1406
+aS'Red Herring'
+p1407
+aS'Refrigerator'
+p1408
+aS'Relationship'
+p1409
+aS'Remedy'
+p1410
+aS'Reminder'
+p1411
+aS'Rent Payment'
+p1412
+aS'Retirement Age'
+p1413
+aS'Rhinoceros'
+p1414
+aS'Rhythm'
+p1415
+aS'Rice Paper'
+p1416
+aS'Ripple In The Water'
+p1417
+aS'Road Map'
+p1418
+aS'Roadblock'
+p1419
+aS'Robot'
+p1420
+aS'Rock Cornish Game Hen'
+p1421
+aS'Rocking Chair'
+p1422
+aS'Rocky Road Ice Cream'
+p1423
+aS'Rolling Pin'
+p1424
+aS'Room Service'
+p1425
+aS'Rooster'
+p1426
+aS'Rose Bush'
+p1427
+aS'Rosebud'
+p1428
+aS'Rubber'
+p1429
+aS'Rubber Band'
+p1430
+aS'Rubber Stamp'
+p1431
+aS'Rush Hour Traffic'
+p1432
+aS'Rust Remover'
+p1433
+aS'Rye Bread'
+p1434
+aS'Sacrifice Fly'
+p1435
+aS'Saddle'
+p1436
+aS'Safety Net'
+p1437
+aS'Saffron'
+p1438
+aS'Sagebrush'
+p1439
+aS'Saint Bernard Dog'
+p1440
+aS'Salad Dressing'
+p1441
+aS'Salary'
+p1442
+aS'Saltwater Fish'
+p1443
+aS'Sand Bag'
+p1444
+aS'Sand Dollar'
+p1445
+aS'Sandpaper'
+p1446
+aS'Sandstone'
+p1447
+aS'Sandwich'
+p1448
+aS'Sapphire'
+p1449
+aS'Satin'
+p1450
+aS'Sausage'
+p1451
+aS'Savings And Loan Association'
+p1452
+aS'Savings Bond'
+p1453
+aS'Schnauzer'
+p1454
+aS'Scholarship'
+p1455
+aS'School Play'
+p1456
+aS'School Year'
+p1457
+aS'Score Card'
+p1458
+aS'Scotch Tape'
+p1459
+aS'Screen Saver'
+p1460
+aS'Screen Test'
+p1461
+aS'Sea Urchin'
+p1462
+aS'Sea Horse'
+p1463
+aS'Sea Lion'
+p1464
+aS'Seafood'
+p1465
+aS'Seagull'
+p1466
+aS'Search Warrant'
+p1467
+aS'Searchlight'
+p1468
+aS'Secret Identity'
+p1469
+aS'Seeing Eye Dog'
+p1470
+aS'Self-Control'
+p1471
+aS'Self-Esteem'
+p1472
+aS'Self-Portrait'
+p1473
+aS'Semi-Circle'
+p1474
+aS'Semicolon'
+p1475
+aS'Sense Of Smell'
+p1476
+aS'Sentence'
+p1477
+aS'Septic Tank'
+p1478
+aS'Sequoia'
+p1479
+aS'Service Elevator'
+p1480
+aS'Sewing Machine'
+p1481
+aS'Shadow'
+p1482
+aS'Shag Carpet'
+p1483
+aS'Shark Fin'
+p1484
+aS'Sheet Music'
+p1485
+aS'Shellfish'
+p1486
+aS'Shipment'
+p1487
+aS'Shoehorn'
+p1488
+aS'Shooting Star'
+p1489
+aS'Shopping Cart'
+p1490
+aS'Short Story'
+p1491
+aS'Shorthand'
+p1492
+aS'Shoulder'
+p1493
+aS'Shovel'
+p1494
+aS'Show Business'
+p1495
+aS'Shower'
+p1496
+aS'Shrink-Wrap'
+p1497
+aS'Side Street'
+p1498
+aS'Sign Language'
+p1499
+aS'Silence'
+p1500
+aS'Silkworm'
+p1501
+aS'Silver Platter'
+p1502
+aS'Skeleton'
+p1503
+aS'Ski Lift'
+p1504
+aS'Skim Milk'
+p1505
+aS'Skylight'
+p1506
+aS'Sleeping Bag'
+p1507
+aS'Slingshot'
+p1508
+aS'Slow Dance'
+p1509
+aS'Smoke Screen'
+p1510
+aS'Snapdragon'
+p1511
+aS'Snapshot'
+p1512
+aS'Snowball'
+p1513
+aS'Snowdrift'
+p1514
+aS'Soapbox'
+p1515
+aS'Social Security Check'
+p1516
+aS'Soda Fountain'
+p1517
+aS'Soda Water'
+p1518
+aS'Sofa Bed'
+p1519
+aS'Software'
+p1520
+aS'Solar System'
+p1521
+aS'Song And Dance Routine'
+p1522
+aS'Sonic Boom'
+p1523
+aS'Sore Throat'
+p1524
+aS'Soup Ladle'
+p1525
+aS'Southbound Train'
+p1526
+aS'Souvenir'
+p1527
+aS'Space Heater'
+p1528
+aS'Spaghetti Sauce'
+p1529
+aS'Spare Change'
+p1530
+aS'Spark Plug'
+p1531
+aS'Sparkling Mineral Water'
+p1532
+aS'Sparrow'
+p1533
+aS'Spearmint Gum'
+p1534
+aS'Special Assignment'
+p1535
+aS'Specimen'
+p1536
+aS'Spectacle'
+p1537
+aS'Speedboat'
+p1538
+aS'Spell-Checker'
+p1539
+aS'Spider Monkey'
+p1540
+aS'Spinal Column'
+p1541
+aS'Spine-Tingling Adventure'
+p1542
+aS'Spinning Wheel'
+p1543
+aS'Splinter'
+p1544
+aS'Split Decision'
+p1545
+aS'Split-Level House'
+p1546
+aS'Spruce'
+p1547
+aS'Stack Of Paper'
+p1548
+aS'Stallion'
+p1549
+aS'Stamp'
+p1550
+aS'Starfish'
+p1551
+aS'Starry Night'
+p1552
+aS'Status Report'
+p1553
+aS'Steam Engine'
+p1554
+aS'Steel Wool'
+p1555
+aS'Steep Hill'
+p1556
+aS'Stegosaurus'
+p1557
+aS'Stencil'
+p1558
+aS'Step Stool'
+p1559
+aS'Stepstool'
+p1560
+aS'Sterling Silver'
+p1561
+aS'Stick'
+p1562
+aS'Stiff Neck'
+p1563
+aS'Stingray'
+p1564
+aS'Stop Sign'
+p1565
+aS'Stove'
+p1566
+aS'Stovepipe Hat'
+p1567
+aS'Strand Of Hair'
+p1568
+aS'Strawberry Jam'
+p1569
+aS'Stretcher'
+p1570
+aS'String Bean'
+p1571
+aS'Striped Bass'
+p1572
+aS'Stumbling Block'
+p1573
+aS'Submarine'
+p1574
+aS'Sunny Afternoon'
+p1575
+aS'Sunshine'
+p1576
+aS'Sunstroke'
+p1577
+aS'Survey'
+p1578
+aS'Sweat Suit'
+p1579
+aS'Sweater'
+p1580
+aS'Swimming Pool'
+p1581
+aS'Swiss Bank Account'
+p1582
+aS'Swordfish'
+p1583
+aS'Sycamore Tree'
+p1584
+aS'Tabasco Sauce'
+p1585
+aS'Table Tennis'
+p1586
+aS'Tablecloth'
+p1587
+aS'Tablespoon'
+p1588
+aS'Tail Pipe'
+p1589
+aS'Taillight'
+p1590
+aS'Talk Show'
+p1591
+aS'Tank Top'
+p1592
+aS'Tea Service'
+p1593
+aS'Technology'
+p1594
+aS'Telephone'
+p1595
+aS'Telescope'
+p1596
+aS'Television Remote Control'
+p1597
+aS'Temperature'
+p1598
+aS'Test Tube'
+p1599
+aS'Thank-You Note'
+p1600
+aS'The Bronze Age'
+p1601
+aS'The Milky Way'
+p1602
+aS'The Mother Lode'
+p1603
+aS'The Polka'
+p1604
+aS'The Scales Of Justice'
+p1605
+aS'The Stone Age'
+p1606
+aS'The Fifth Amendment'
+p1607
+aS'The First Commandment'
+p1608
+aS'The Moon'
+p1609
+aS'The Old Testament'
+p1610
+aS'Theater In The Round'
+p1611
+aS'Thimble'
+p1612
+aS'Third-Class Mail'
+p1613
+aS'Thirst'
+p1614
+aS'Thousand Island Dressing'
+p1615
+aS'Throat'
+p1616
+aS'Throw Rug'
+p1617
+aS'Thunderbolt'
+p1618
+aS'Ticket'
+p1619
+aS'Timber Wolf'
+p1620
+aS'Title Page'
+p1621
+aS'Toaster Oven'
+p1622
+aS'Tollbooth'
+p1623
+aS'Tomato'
+p1624
+aS'Toothbrush'
+p1625
+aS'Tortoise'
+p1626
+aS'Toss-Up Question'
+p1627
+aS'Tote Bag'
+p1628
+aS'Tour Of Duty'
+p1629
+aS'Toy Chest'
+p1630
+aS'Trade Agreement'
+p1631
+aS'Trademark'
+p1632
+aS'Tradition'
+p1633
+aS'Transcript'
+p1634
+aS'Trap Door'
+p1635
+aS'Trapeze'
+p1636
+aS'Trash Can'
+p1637
+aS"Traveler's Check"
+p1638
+aS'Treasure Trove'
+p1639
+aS'Triceratops'
+p1640
+aS'Trilogy'
+p1641
+aS'Tripod'
+p1642
+aS'Tulip'
+p1643
+aS'Turnstile'
+p1644
+aS'Tweed Suit'
+p1645
+aS'Twenty-Twenty Vision'
+p1646
+aS'Two-By-Four'
+p1647
+aS'Typing Paper'
+p1648
+aS'Tyrannosaurus Rex'
+p1649
+aS'Underpass'
+p1650
+aS'Vacuum Cleaner'
+p1651
+aS'Violet'
+p1652
+aS'VIP Treatment'
+p1653
+aS'Vocabulary'
+p1654
+aS'Volleyball'
+p1655
+aS'Volume Control'
+p1656
+aS'Vote Of Confidence'
+p1657
+aS'Vow Of Silence'
+p1658
+aS'Vulture'
+p1659
+aS'Wading Pool'
+p1660
+aS'Waffle Iron'
+p1661
+aS'Wagon Train'
+p1662
+aS'Waistline'
+p1663
+aS'Walnut'
+p1664
+aS'Walnut'
+p1665
+aS'Walrus'
+p1666
+aS'Wardrobe'
+p1667
+aS'Warp Speed'
+p1668
+aS'Watch'
+p1669
+aS'Water'
+p1670
+aS'Water Balloon'
+p1671
+aS'Water Cooler'
+p1672
+aS'Water Pump'
+p1673
+aS'Waterfall'
+p1674
+aS'Waterfowl'
+p1675
+aS'Wedding Cake'
+p1676
+aS'Weekly Paycheck'
+p1677
+aS'Weeping Willow Tree'
+p1678
+aS'Wheat Germ'
+p1679
+aS'Whiplash'
+p1680
+aS'Wide-Angle Lens'
+p1681
+aS'Wild Rice'
+p1682
+aS'Will Power'
+p1683
+aS'Willow'
+p1684
+aS'Window Shade'
+p1685
+aS'Winter Squash'
+p1686
+aS'Wisdom'
+p1687
+aS'Wisdom Tooth'
+p1688
+aS'Woodpile'
+p1689
+aS'Worcestershire Sauce'
+p1690
+aS'World Atlas'
+p1691
+aS'Wristband'
+p1692
+aS'Wristwatch'
+p1693
+aS"Writer's Cramp"
+p1694
+aS'Yellow-Bellied Sapsucker'
+p1695
+asS'Nickname'
+p1696
+(lp1697
+S'Billy The Kid'
+p1698
+aS'Calamity Jane'
+p1699
+aS'Ivan The Terrible'
+p1700
+aS'Legs Diamond'
+p1701
+aS'Long John Silver'
+p1702
+aS'Merry Old England'
+p1703
+aS'Miracle Mile'
+p1704
+aS'Old Ironsides'
+p1705
+aS'Old Man Rhythm'
+p1706
+aS'Paddy Wagon'
+p1707
+aS'Peter The Great'
+p1708
+aS'The Emerald Isle'
+p1709
+aS'The Fourth Estate'
+p1710
+aS'The City Of Brotherly Love'
+p1711
+aS'The Land Of Plenty'
+p1712
+aS'The Roaring Twenties'
+p1713
+aS'The Wild West'
+p1714
+aS'Tin Pan Alley'
+p1715
+aS'Whirlybird'
+p1716
+asS'Quotation'
+p1717
+(lp1718
+S'A Bicycle Built For Two'
+p1719
+aS'A Legend In His Own Time'
+p1720
+aS'A Pocket Full Of Posies'
+p1721
+aS'A Poem Lovely As A Tree'
+p1722
+aS'A Rolling Stone Gathers No Moss'
+p1723
+aS'A Yankee Doodle Do Or Die'
+p1724
+aS'All I Have To Do Is Dream'
+p1725
+aS'Baby We Were Born To Run'
+p1726
+aS'Big Wheels Keep On Turning'
+p1727
+aS'Bring Back My Bonny To Me'
+p1728
+aS'Bringing In The Sheaves'
+p1729
+aS'Clang Clang Clang Went The Trolley'
+p1730
+aS'Curses Foiled Again'
+p1731
+aS'Deck The Halls With Boughs Of Holly'
+p1732
+aS'Deep In The Heart Of Texas'
+p1733
+aS'Do The Twist'
+p1734
+aS'Doe A Deer A Female Deer'
+p1735
+aS"Don't Tread On Me"
+p1736
+aS'Four Score And Seven Years Ago'
+p1737
+aS'From The Mountains To The Prairies'
+p1738
+aS'Gently Down The Stream'
+p1739
+aS'Give Us This Day Our Daily Bread'
+p1740
+aS'Goodness Gracious Great Balls Of Fire'
+p1741
+aS"He's Making A List And Checking It Twice"
+p1742
+aS'Healthy Wealthy And Wise'
+p1743
+aS'Here We Go Round The Mulberry Bush'
+p1744
+aS'Hey Diddle Diddle The Cat And The Fiddle'
+p1745
+aS'Hickory Dickory Dock'
+p1746
+aS'How Deep Is Your Love'
+p1747
+aS'How Do You Spell Relief'
+p1748
+aS'How Sweet It Is'
+p1749
+aS'I Came I Saw I Conquered'
+p1750
+aS'I Cannot Tell A Lie'
+p1751
+aS'I Cannot Tell A Lie'
+p1752
+aS'I Pledge Allegiance To The Flag'
+p1753
+aS"I'm In The Mood For Love"
+p1754
+aS"It's A Long Way To Tipperary"
+p1755
+aS'Like Sands Through The Hourglass'
+p1756
+aS'Little Boy Blue Come Blow Your Horn'
+p1757
+aS'Love Thy Neighbor'
+p1758
+aS'Love To Love You Baby'
+p1759
+aS'Mary Had A Little Lamb'
+p1760
+aS'Miles To Go Before I Sleep'
+p1761
+aS'My Cup Runneth Over'
+p1762
+aS'Never Trust Anyone Over Thirty'
+p1763
+aS'No Man Is An Island'
+p1764
+aS'No Way To Treat A Lady'
+p1765
+aS"O'er The Ramparts We Watched"
+p1766
+aS'Oh You Beautiful Doll'
+p1767
+aS'Once Upon A Time'
+p1768
+aS'Only The Shadow Knows'
+p1769
+aS'Pocket Full Of Posies'
+p1770
+aS"Rally 'Round The Flag Boys"
+p1771
+aS'Reach Out And Touch Someone'
+p1772
+aS'Root Root Root For The Home Team'
+p1773
+aS'Row Row Row Your Boat'
+p1774
+aS'See Spot Run'
+p1775
+aS'Seek And Ye Shall Find'
+p1776
+aS'Some Guys Have All The Luck'
+p1777
+aS'Take My Wife Please'
+p1778
+aS'Teach Your Children Well'
+p1779
+aS'Thanks For The Memory'
+p1780
+aS'The Farmer Takes A Wife'
+p1781
+aS'The Fog Comes In On Little Cat Feet'
+p1782
+aS'The Meek Shall Inherit The Earth'
+p1783
+aS'The Shot Heard Round The World'
+p1784
+aS'This Land Was Made For You And Me'
+p1785
+aS'Tie A Yellow Ribbon'
+p1786
+aS'To Err Is Human To Forgive Divine'
+p1787
+aS'To Form A More Perfect Union'
+p1788
+aS'Twinkle Twinkle Little Star'
+p1789
+aS'We Have Met The Enemy And He Is Us'
+p1790
+aS"What's Good For The Goose Is Good For The Gander"
+p1791
+aS'When In The Course Of Human Events'
+p1792
+aS'Where Seldom Is Heard'
+p1793
+aS'Wherefore Art Thou Romeo'
+p1794
+aS'Workers Of The World Unite'
+p1795
+asS'The Eighties'
+p1796
+(lp1797
+S'East & West Germany Reunite'
+p1798
+aS'John McEnroe Wins Three Wimbledon Titles'
+p1799
+aS'MTV Debuts All-Music Format'
+p1800
+aS'The Soviet Union Collapses'
+p1801
+asS'Places'
+p1802
+(lp1803
+S'Baggage Claim Areas'
+p1804
+aS'Canadian Provinces'
+p1805
+aS'Canary Islands'
+p1806
+aS'Churches & Synagogues'
+p1807
+aS'Islands Of The West Indies'
+p1808
+aS'Northern & Southern Suburbs'
+p1809
+aS'Samoan Islands'
+p1810
+aS'School Zones'
+p1811
+aS'Southern States'
+p1812
+aS'The Florida Keys'
+p1813
+aS'The Windward Islands'
+p1814
+aS'The Four Corners Of The Earth'
+p1815
+aS'Virgin Islands'
+p1816
+asS'Person - Proper Name'
+p1817
+(lp1818
+S'Abraham Lincoln'
+p1819
+aS'Actor Director Clint Eastwood'
+p1820
+aS'Actor Ernest Borgnine'
+p1821
+aS'Actress Comedian Whoopi Goldberg'
+p1822
+aS'Actress Dana Delaney'
+p1823
+aS'Actress Heather Locklear'
+p1824
+aS'Adlai Stevenson'
+p1825
+aS'Al Gore'
+p1826
+aS'Albert Einstein'
+p1827
+aS'Aldous Huxley'
+p1828
+aS'Ambrose Bierce'
+p1829
+aS'Anatole France'
+p1830
+aS'Andy Rooney'
+p1831
+aS'Andy Warhol'
+p1832
+aS'Anita Baker'
+p1833
+aS'Ann Jillian'
+p1834
+aS'Annette Bening'
+p1835
+aS'Architect Frank Lloyd Wright'
+p1836
+aS'Art Linkletter'
+p1837
+aS'Astronaut John Glenn'
+p1838
+aS'Astronomer Galileo'
+p1839
+aS'Attorney General Janet Reno'
+p1840
+aS'Author Herman Melville'
+p1841
+aS'Author James Thurber'
+p1842
+aS'Aviator Charles Lindbergh'
+p1843
+aS'Beatrix Potter'
+p1844
+aS'Bertrand Russell'
+p1845
+aS'Bill Clinton'
+p1846
+aS'Bruce Jenner'
+p1847
+aS'Bruce Willis'
+p1848
+aS'Calvin Coolidge'
+p1849
+aS'Cleopatra'
+p1850
+aS'Clint Eastwood'
+p1851
+aS'Comedian Ellen Degeneres'
+p1852
+aS'Comedian George Carlin'
+p1853
+aS'Composer George Gershwin'
+p1854
+aS'Country Singer Johnny Cash'
+p1855
+aS'Dan Quayle'
+p1856
+aS'Daniel Boone'
+p1857
+aS'Davy Crockett'
+p1858
+aS'Drew Barrymore'
+p1859
+aS'Dustin Hoffman'
+p1860
+aS'Dwight D. Eisenhower'
+p1861
+aS'Dwight Yoakam'
+p1862
+aS'Elvis Presley'
+p1863
+aS'Eric Clapton'
+p1864
+aS'Ernest Borgnine'
+p1865
+aS'Fashion Designer Giorgio Armani'
+p1866
+aS'Film Director John Huston'
+p1867
+aS'Flip Wilson'
+p1868
+aS'Florence Nightingale'
+p1869
+aS'Former First Lady Barbara Bush'
+p1870
+aS'Franklin Delano Roosevelt'
+p1871
+aS'George Bernard Shaw'
+p1872
+aS'George Bush'
+p1873
+aS'George Gershwin'
+p1874
+aS'George Washington'
+p1875
+aS'Gerald Ford'
+p1876
+aS'Giorgio Armani'
+p1877
+aS'Godfather Of Soul James Brown'
+p1878
+aS'Grandma Moses'
+p1879
+aS'Grover Cleveland'
+p1880
+aS'Harrison Ford'
+p1881
+aS'Harry S Truman'
+p1882
+aS'Helen Of Troy'
+p1883
+aS'Henry Fonda'
+p1884
+aS'Herbert Hoover'
+p1885
+aS'Home Improvement Star Tim Allen'
+p1886
+aS'Horatio Alger'
+p1887
+aS'Indira Gandhi'
+p1888
+aS'J. Edgar Hoover'
+p1889
+aS'Jack Nicholson'
+p1890
+aS'Jackie Gleason'
+p1891
+aS'James Dean'
+p1892
+aS'Jenny Jones'
+p1893
+aS'Jimmy Carter'
+p1894
+aS'John Adams'
+p1895
+aS'John Barrymore'
+p1896
+aS'John Hancock'
+p1897
+aS'Jonathan Swift'
+p1898
+aS'Julius Caesar'
+p1899
+aS'Karl Marx'
+p1900
+aS'Leading Lady Mae West'
+p1901
+aS'Leading Man Harrison Ford'
+p1902
+aS'Lenny Kravitz'
+p1903
+aS'Leonardo Da Vinci'
+p1904
+aS'Lord Byron'
+p1905
+aS'Luciano Pavarotti'
+p1906
+aS'Luther Vandross'
+p1907
+aS'Lyndon Baines Johnson'
+p1908
+aS'Magician David Copperfield'
+p1909
+aS'Marilyn Monroe'
+p1910
+aS'Martin Luther King'
+p1911
+aS'Mary Chapin Carpenter'
+p1912
+aS'Melissa Etheridge'
+p1913
+aS'Meryl Streep'
+p1914
+aS'Mother Teresa'
+p1915
+aS'Napoleon Bonaparte'
+p1916
+aS'Neil Young'
+p1917
+aS'New York Mayor Rudolph Giuliani'
+p1918
+aS'News Correspondent Charles Kuralt'
+p1919
+aS'Norman Rockwell'
+p1920
+aS'Novelist Jack London'
+p1921
+aS'Oliver North'
+p1922
+aS'Orson Welles'
+p1923
+aS'Patty Hearst'
+p1924
+aS'Paul Newman'
+p1925
+aS'Paul Revere'
+p1926
+aS'Peter Gabriel'
+p1927
+aS'Phil Donahue'
+p1928
+aS'Placido Domingo'
+p1929
+aS'Poet Carl Sandburg'
+p1930
+aS'President Calvin Coolidge'
+p1931
+aS'Prince Rainier Of Monaco'
+p1932
+aS'Randy Quaid'
+p1933
+aS'Revolutionary Leader John Hancock'
+p1934
+aS'Richard Nixon'
+p1935
+aS'Robert Stack'
+p1936
+aS'Rock Musician Sting'
+p1937
+aS'Roseanne'
+p1938
+aS"Rosie O'Donnell"
+p1939
+aS'Rush Limbaugh'
+p1940
+aS'Sam Snead'
+p1941
+aS'Scientist Albert Einstein'
+p1942
+aS'Sheryl Crow'
+p1943
+aS'Singer Bonnie Raitt'
+p1944
+aS'Singer Toni Braxton'
+p1945
+aS'Socrates'
+p1946
+aS'Speaker Of The House Newt Gingrich'
+p1947
+aS'Superstar Elton John'
+p1948
+aS'Talk Show Host Phil Donahue'
+p1949
+aS'Ted Turner'
+p1950
+aS'The Dalai Lama'
+p1951
+aS'Theodore Roosevelt'
+p1952
+aS'Thomas Jefferson'
+p1953
+aS'Tom Jones'
+p1954
+aS'Tony Bennett'
+p1955
+aS'Van Morrison'
+p1956
+aS'Warren Beatty'
+p1957
+aS'Whoopi Goldberg'
+p1958
+aS'Will Rogers'
+p1959
+aS'William Shakespeare'
+p1960
+aS'Winston Churchill'
+p1961
+aS'Woodrow Wilson'
+p1962
+aS'Wynonna Judd'
+p1963
+aS'Yoko Ono'
+p1964
+aS'Zsa Zsa Gabor'
+p1965
+asS'Person'
+p1966
+(lp1967
+S'A Good Soldier'
+p1968
+aS'A Handsome Man'
+p1969
+aS'A Mature Individual'
+p1970
+aS'A Mere Child'
+p1971
+aS'A Pain In The Neck'
+p1972
+aS'A Professor With Tenure'
+p1973
+aS'A Real Crowd-Pleaser'
+p1974
+aS'A Real Looker'
+p1975
+aS'Acquaintance'
+p1976
+aS'Administrator'
+p1977
+aS'Angel'
+p1978
+aS'Archer'
+p1979
+aS'Artist'
+p1980
+aS'Aunt'
+p1981
+aS'Best Man'
+p1982
+aS'Bishop'
+p1983
+aS'Blue Blood'
+p1984
+aS'Bride'
+p1985
+aS'Bridesmaid'
+p1986
+aS'British Citizen'
+p1987
+aS'Brother'
+p1988
+aS'Brother-In-Law'
+p1989
+aS'Business Associate'
+p1990
+aS'Business Partner'
+p1991
+aS'Bystander'
+p1992
+aS'Candidate'
+p1993
+aS'Cattle Rustler'
+p1994
+aS'Client'
+p1995
+aS'Co-Worker'
+p1996
+aS'Coloratura Soprano'
+p1997
+aS'Comedian'
+p1998
+aS'Commander In Chief'
+p1999
+aS'Commanding Officer'
+p2000
+aS'Common-Law Husband'
+p2001
+aS'Computer Hacker'
+p2002
+aS'Con Artist'
+p2003
+aS'Constituent'
+p2004
+aS'Copy Cat'
+p2005
+aS'Cousin'
+p2006
+aS'Crowd-Pleaser'
+p2007
+aS'Crybaby'
+p2008
+aS'Cub Reporter'
+p2009
+aS'Deacon'
+p2010
+aS'Dean Of Students'
+p2011
+aS'Department Head'
+p2012
+aS'Devoted Husband'
+p2013
+aS'Diplomat'
+p2014
+aS'Doctor Of Philosophy'
+p2015
+aS'Double Agent'
+p2016
+aS'Drama Student'
+p2017
+aS'Drifter'
+p2018
+aS'Elder Statesman'
+p2019
+aS"England's Queen Mother"
+p2020
+aS'Equestrian'
+p2021
+aS'Ex-Wife'
+p2022
+aS'Executive'
+p2023
+aS'Expert Witness'
+p2024
+aS'Fair-Weather Friend'
+p2025
+aS'Father'
+p2026
+aS'First Cousin'
+p2027
+aS'Fisherman'
+p2028
+aS'Foot Soldier'
+p2029
+aS'Football Tackle'
+p2030
+aS'Fortune Hunter'
+p2031
+aS'Friend Of The Family'
+p2032
+aS'Gardener'
+p2033
+aS'Genius'
+p2034
+aS'Gentleman'
+p2035
+aS'Globe Trotter'
+p2036
+aS'Good Samaritan'
+p2037
+aS'Government Official'
+p2038
+aS'Grandfather'
+p2039
+aS'Horseback Rider'
+p2040
+aS'Host Of A Party'
+p2041
+aS'Independent Investor'
+p2042
+aS'Insider'
+p2043
+aS'Johnny-Come-Lately'
+p2044
+aS'Juvenile'
+p2045
+aS'Lame Duck President'
+p2046
+aS'Landlubber'
+p2047
+aS'Landowner'
+p2048
+aS'Leader Of The Band'
+p2049
+aS'Legal Occupant'
+p2050
+aS'Lieutenant Colonel'
+p2051
+aS'Light Sleeper'
+p2052
+aS'Local Hero'
+p2053
+aS'Lounge Singer'
+p2054
+aS'Major General'
+p2055
+aS'Manager'
+p2056
+aS'Matron'
+p2057
+aS'Middleman'
+p2058
+aS'Minor'
+p2059
+aS'Monday Morning Quarterback'
+p2060
+aS'Most Likely To Succeed'
+p2061
+aS'Mother'
+p2062
+aS'Mother Of The Bride'
+p2063
+aS'Native American Shaman'
+p2064
+aS'Nephew'
+p2065
+aS'Niece'
+p2066
+aS'Night Owl'
+p2067
+aS'Nobel Prize Winner'
+p2068
+aS'Officer Of The Court'
+p2069
+aS'Opponent'
+p2070
+aS'Optimist'
+p2071
+aS'Original Owner'
+p2072
+aS'Outlaw'
+p2073
+aS'Patriot'
+p2074
+aS'People-Watcher'
+p2075
+aS'Pessimist'
+p2076
+aS'Philosopher'
+p2077
+aS'Platoon Leader'
+p2078
+aS'Platoon Sergeant'
+p2079
+aS'Player Of The Year'
+p2080
+aS'Pre-Med Student'
+p2081
+aS'Priest'
+p2082
+aS'Prophet'
+p2083
+aS'Proprietor'
+p2084
+aS'Protagonist'
+p2085
+aS'Publisher'
+p2086
+aS'Reader'
+p2087
+aS'Redhead'
+p2088
+aS'Renaissance Man'
+p2089
+aS'Representative'
+p2090
+aS'Rodeo Cowboy'
+p2091
+aS'Roman Gladiator'
+p2092
+aS'Rookie Of The Year'
+p2093
+aS'Runner-Up'
+p2094
+aS'Scapegoat'
+p2095
+aS'Schoolboy'
+p2096
+aS'Scoundrel'
+p2097
+aS'Screwball'
+p2098
+aS'Second Cousin'
+p2099
+aS'Shareholder'
+p2100
+aS'Shipwrecked Sailor'
+p2101
+aS'Shrinking Violet'
+p2102
+aS'Significant Other'
+p2103
+aS'Silent Partner'
+p2104
+aS'Sister'
+p2105
+aS'Sister-In-Law'
+p2106
+aS'Skin Diver'
+p2107
+aS'Sleepyhead'
+p2108
+aS'Sob Sister'
+p2109
+aS'Soft Touch'
+p2110
+aS'Sophomore'
+p2111
+aS'Soprano'
+p2112
+aS'Sorority Sister'
+p2113
+aS'Southern Belle'
+p2114
+aS'Spanish Senorita'
+p2115
+aS'Sports Fan'
+p2116
+aS'Spouse'
+p2117
+aS'Staff Member'
+p2118
+aS'Staff Sergeant'
+p2119
+aS'Star Of Stage And Screen'
+p2120
+aS'State Trooper'
+p2121
+aS'Stepfather'
+p2122
+aS'Stockholder'
+p2123
+aS'Storyteller'
+p2124
+aS'Student Teacher'
+p2125
+aS'Substitute Teacher'
+p2126
+aS'Supervisor'
+p2127
+aS'Taxpayer'
+p2128
+aS'Teaching Fellow'
+p2129
+aS'Tenderfoot'
+p2130
+aS'Tenor'
+p2131
+aS'The Duke Of York'
+p2132
+aS'The Prince Of Wales'
+p2133
+aS'Ticket Scalper'
+p2134
+aS'Tomboy'
+p2135
+aS'Tourist'
+p2136
+aS'Traitor'
+p2137
+aS'Trustee'
+p2138
+aS'Tyrant'
+p2139
+aS'Umpire'
+p2140
+aS'Uncle'
+p2141
+aS'Ventriloquist'
+p2142
+aS'Very Important Person'
+p2143
+aS'Veteran'
+p2144
+aS'Violinist'
+p2145
+aS'Virtuoso'
+p2146
+aS'Weight-Lifter'
+p2147
+aS'Young Man'
+p2148
+asS'Before & After'
+p2149
+(lp2150
+S'A Blast From The Past Tense'
+p2151
+aS'A Long Shot In The Dark'
+p2152
+aS'A Marked Man Of The World'
+p2153
+aS'A Touch Of Class Clown'
+p2154
+aS'Abraham Lincoln Continental'
+p2155
+aS"Adam's Apple Pie"
+p2156
+aS'Against All Odds Or Evens'
+p2157
+aS'Agatha Christie Brinkley'
+p2158
+aS'Alexander The Great Balls Of Fire'
+p2159
+aS"All The World's A Stage Fright"
+p2160
+aS'American Red Cross Your Heart'
+p2161
+aS'An Ear Of Corn Syrup'
+p2162
+aS'Baking Soda Fountain'
+p2163
+aS'Baton Rouge Louisiana Purchase'
+p2164
+aS'Beat The Odds And Ends'
+p2165
+aS'Benjamin Franklin D. Roosevelt'
+p2166
+aS'Betsy Ross Perot'
+p2167
+aS'Billie Jean King Of The Road'
+p2168
+aS'Billy Joel Grey'
+p2169
+aS'Block That Kick In The Pants'
+p2170
+aS'Blow Off A Little Steam Engine'
+p2171
+aS'Carrie Fisher-Price'
+p2172
+aS'Carrying A Torch Song Trilogy'
+p2173
+aS'Central Park Avenue'
+p2174
+aS'Charlie Brown Bear'
+p2175
+aS"Cleopatra's Barge In On"
+p2176
+aS'Coat Of Paint By Numbers'
+p2177
+aS'Cost Of Living Well Is The Best Revenge'
+p2178
+aS'Cover Girl Scout'
+p2179
+aS'Dallas Cowboys And Indians'
+p2180
+aS'Debbie Reynolds Wrap'
+p2181
+aS'Dolley Madison Square Garden'
+p2182
+aS"Don't Fence Me In The Mood"
+p2183
+aS'Down In The Valley Forge'
+p2184
+aS'Down The Hatch An Egg'
+p2185
+aS'Eggs Over Easy Come Easy Go'
+p2186
+aS'Emerald Green Bay Packers'
+p2187
+aS'Emily Post Office Box'
+p2188
+aS'Empty Space Shuttle'
+p2189
+aS'Fast Food For Thought'
+p2190
+aS'Fat Lip Gloss'
+p2191
+aS'Fine Art Carney'
+p2192
+aS'Floor Mats Wilander'
+p2193
+aS'Flower Power Lunch'
+p2194
+aS'Fort Worth Its Weight In Gold'
+p2195
+aS'Francis Scott Key West Florida'
+p2196
+aS'Free Throw Rug'
+p2197
+aS'Gentle Ben Vereen'
+p2198
+aS'Get Lost And Found'
+p2199
+aS'Glad Rags To Riches'
+p2200
+aS'Glory Days Of Our Lives'
+p2201
+aS'Golden Gate Bridge Game'
+p2202
+aS'Gone With The Wind Tunnel'
+p2203
+aS'Gourmet Food For Thought'
+p2204
+aS'Grace Kelly Green'
+p2205
+aS'Grace Under Fire Alarm'
+p2206
+aS'Grover Cleveland Ohio'
+p2207
+aS'Hail To The Chief Executive Officer'
+p2208
+aS'Harry S Truman Capote'
+p2209
+aS'Hedge Your Bet Your Life'
+p2210
+aS"Here's Mud In Your Eye Of The Needle"
+p2211
+aS"Here's Mud In Your Eye Shadow"
+p2212
+aS'Hit Or Miss Saigon'
+p2213
+aS'Holy Roman Empire State Building'
+p2214
+aS'How Could You Dirty Rat'
+p2215
+aS'Hubert Humphrey Bogart'
+p2216
+aS'Hundred-Dollar Bill Clinton'
+p2217
+aS'I Miss You Dirty Rat'
+p2218
+aS'In The Mood Swings'
+p2219
+aS'India Ink-Jet Printer'
+p2220
+aS'It Boggles The Mind Your Own Business'
+p2221
+aS'Jack London England'
+p2222
+aS'Japanese Beetle Bailey'
+p2223
+aS'Jerry Lewis & Clark'
+p2224
+aS'Jesse James Michener'
+p2225
+aS'Jodie Foster Parents'
+p2226
+aS'Joe Louis Armstrong'
+p2227
+aS'John Denver Colorado'
+p2228
+aS'John Glenn Close'
+p2229
+aS'Johnny Carson City Nevada'
+p2230
+aS'Judgment Call Of The Wild'
+p2231
+aS'Julius Caesar Salad'
+p2232
+aS'Kate Jackson Five'
+p2233
+aS'Kelly Green Acres'
+p2234
+aS'King Of The Road Warrior'
+p2235
+aS'Lag Behind The Eight Ball'
+p2236
+aS'Leap Of Faith Hope And Charity'
+p2237
+aS'Let There Be Light Bulb'
+p2238
+aS'Little Orphan Annie Potts'
+p2239
+aS'Little Boy Blue Ribbon'
+p2240
+aS'Little House On The Prairie Dog'
+p2241
+aS'Lloyd Bridges Of Madison County'
+p2242
+aS'Lone Star State Of The Union'
+p2243
+aS'Love Me Tender Mercies'
+p2244
+aS'Lunch Date Palm Tree'
+p2245
+aS'Maid Marian The Librarian'
+p2246
+aS'Mail Call Of The Wild'
+p2247
+aS'Martha Graham Crackers'
+p2248
+aS'Master Key Largo'
+p2249
+aS'Meet The Press Your Luck'
+p2250
+aS'Melrose Place Your Bets'
+p2251
+aS'Mess Kit Carson'
+p2252
+aS'Minnie Pearl Harbor'
+p2253
+aS'Miss Piggy Bank'
+p2254
+aS'Moby Dick Tracy'
+p2255
+aS'Money Order In The Court'
+p2256
+aS'Murphy Brown University'
+p2257
+aS'Nancy Drew Barrymore'
+p2258
+aS'No Way To Treat A Lady Bird Johnson'
+p2259
+aS"Nolan Ryan O'Neal"
+p2260
+aS'On The Make Your Move'
+p2261
+aS'Order In The Court Jester'
+p2262
+aS'Patrick Henry The Eighth'
+p2263
+aS'Piccadilly Circus Clown'
+p2264
+aS'Plain Jane Eyre'
+p2265
+aS'Porgy And Bess Truman'
+p2266
+aS'Port Of Call Waiting'
+p2267
+aS'Puget Sound Off'
+p2268
+aS'Rain Man Of The World'
+p2269
+aS'Ralph Lauren Bacall'
+p2270
+aS'Ray Charles In Charge'
+p2271
+aS'Rich Little House On The Prairie'
+p2272
+aS'Ricki Lake Superior'
+p2273
+aS'Ricki Lake Worth Florida'
+p2274
+aS'Rise And Shine My Shoes'
+p2275
+aS'Rob Roy Rogers'
+p2276
+aS'Robert Frost On The Pumpkin'
+p2277
+aS'Room At The Top Of The Morning'
+p2278
+aS'Saint Francis Scott Key'
+p2279
+aS'Sally Field Of Dreams'
+p2280
+aS'Sam Houston Oilers'
+p2281
+aS'Santa Barbara Walters'
+p2282
+aS'Scrub The Floor Show'
+p2283
+aS'Searching High And Low Tide'
+p2284
+aS'Shelley Long Underwear'
+p2285
+aS'Shirley Temple University'
+p2286
+aS'Shopping Basket Case'
+p2287
+aS'Sinclair Lewis & Clark'
+p2288
+aS'Sir Walter Raleigh North Carolina'
+p2289
+aS'Sir Walter Scott Joplin'
+p2290
+aS'Sitting Pretty Please With Sugar On It'
+p2291
+aS'Skating On Thin Ice Cream Cone'
+p2292
+aS'Sleeping Beauty And The Beast'
+p2293
+aS'Sports Car Wash'
+p2294
+aS'Stephen King Kong'
+p2295
+aS'Steve Martin Short'
+p2296
+aS'Susan B. Anthony Hopkins'
+p2297
+aS'Swan Lake Erie'
+p2298
+aS'Take Five Easy Pieces'
+p2299
+aS'Take It Easy Rider'
+p2300
+aS'Tennis Elbow Grease'
+p2301
+aS'The Brady Bunch Of Grapes'
+p2302
+aS'The British Open Wide'
+p2303
+aS'The Right Stuff And Nonsense'
+p2304
+aS'Theodore Roosevelt Grier'
+p2305
+aS'Thomas Jefferson Davis'
+p2306
+aS'Toe The Mark Twain'
+p2307
+aS'Tootsie Roll Of Quarters'
+p2308
+aS'Tower Of London Bridge'
+p2309
+aS'West Point Of View'
+p2310
+aS'When You Wish Upon A Star Trek'
+p2311
+aS'Whitney Houston Texas'
+p2312
+asS'Place'
+p2313
+(lp2314
+S'Aberdeen Scotland'
+p2315
+aS'Adriatic Sea'
+p2316
+aS'Aegean Sea'
+p2317
+aS'Africa'
+p2318
+aS'Albania'
+p2319
+aS'Albuquerque New Mexico'
+p2320
+aS'Allentown'
+p2321
+aS'Amarillo Texas'
+p2322
+aS'Amazon Region Of Brazil'
+p2323
+aS'Amherst College'
+p2324
+aS'Amphitheatre'
+p2325
+aS'Amsterdam'
+p2326
+aS'Anaheim California'
+p2327
+aS'Angola'
+p2328
+aS'Anguilla'
+p2329
+aS'Appalachia'
+p2330
+aS'Arlington Virginia'
+p2331
+aS'Armenia'
+p2332
+aS'Aruba'
+p2333
+aS'Aspen Colorado'
+p2334
+aS'Atlanta Georgia'
+p2335
+aS'Austria'
+p2336
+aS'Babylon'
+p2337
+aS'Baghdad'
+p2338
+aS'Bakersfield California'
+p2339
+aS'Baltimore Maryland'
+p2340
+aS'Bangladesh'
+p2341
+aS'Bangor Maine'
+p2342
+aS'Barbados'
+p2343
+aS'Baton Rouge'
+p2344
+aS'Bavaria'
+p2345
+aS'Beauty Salon'
+p2346
+aS'Bedroom'
+p2347
+aS'Beijing China'
+p2348
+aS'Belgrade'
+p2349
+aS'Berkeley California'
+p2350
+aS'Bern Switzerland'
+p2351
+aS'Bethlehem'
+p2352
+aS'Bonn Germany'
+p2353
+aS'Borneo'
+p2354
+aS"Boston's Fenway Park"
+p2355
+aS'Bowling Alley'
+p2356
+aS'Brighton England'
+p2357
+aS'Brisbane Australia'
+p2358
+aS'Bristol England'
+p2359
+aS'Brittany France'
+p2360
+aS'Broadway'
+p2361
+aS'Brown University'
+p2362
+aS'Bucharest Romania'
+p2363
+aS'Buffalo New York'
+p2364
+aS'Bulgaria'
+p2365
+aS'Bunker Hill'
+p2366
+aS'Burgundy Region Of France'
+p2367
+aS'Cairo Egypt'
+p2368
+aS'Calcutta India'
+p2369
+aS'Cambridge'
+p2370
+aS'Camden New Jersey'
+p2371
+aS'Cardiff Wales'
+p2372
+aS'Castle'
+p2373
+aS'Charleston South Carolina'
+p2374
+aS"Chicago's Loop"
+p2375
+aS'Chile'
+p2376
+aS'Chinatown'
+p2377
+aS'Classroom'
+p2378
+aS'Cleveland Ohio'
+p2379
+aS'Clothes Closet'
+p2380
+aS'College Dorm'
+p2381
+aS'Cologne'
+p2382
+aS'Colombia'
+p2383
+aS'Columbia University'
+p2384
+aS'Copper Mine'
+p2385
+aS'Coral Reef'
+p2386
+aS'Cornell University'
+p2387
+aS'Corvallis Oregon'
+p2388
+aS'Country Club'
+p2389
+aS'County Seat'
+p2390
+aS'Courtroom'
+p2391
+aS'Coventry England'
+p2392
+aS'Cycle Shop'
+p2393
+aS'Danbury Connecticut'
+p2394
+aS'Dartmouth College'
+p2395
+aS'Dayton Ohio'
+p2396
+aS'Daytona Beach Florida'
+p2397
+aS'Dearborn Michigan'
+p2398
+aS'Decatur Georgia'
+p2399
+aS'Denver'
+p2400
+aS'Deserted Island'
+p2401
+aS'Disneyland'
+p2402
+aS'Djakarta'
+p2403
+aS'Dominican Republic'
+p2404
+aS'Doorway'
+p2405
+aS'Down On The Farm'
+p2406
+aS'Downtown'
+p2407
+aS'Duluth Minnesota'
+p2408
+aS'Dungeon'
+p2409
+aS'Durham North Carolina'
+p2410
+aS'Dusseldorf'
+p2411
+aS'Dwelling'
+p2412
+aS'East Hampton Long Island'
+p2413
+aS'El Salvador'
+p2414
+aS'England'
+p2415
+aS'Englewood New Jersey'
+p2416
+aS'Erie Canal'
+p2417
+aS'Estonia'
+p2418
+aS'Eugene Oregon'
+p2419
+aS'Europe'
+p2420
+aS'Evanston Illinois'
+p2421
+aS'Fairfield Connecticut'
+p2422
+aS'Fairgrounds'
+p2423
+aS'Fairway'
+p2424
+aS'Family Farm'
+p2425
+aS'Filling Station'
+p2426
+aS'Florida Everglades'
+p2427
+aS'Fordham University'
+p2428
+aS'Formosa'
+p2429
+aS'Fort Leavenworth'
+p2430
+aS'Frankfort Kentucky'
+p2431
+aS'Frankfurt Germany'
+p2432
+aS'Freeport Bahamas'
+p2433
+aS'Fresno California'
+p2434
+aS'Gainesville Florida'
+p2435
+aS'Gallup New Mexico'
+p2436
+aS'Garage'
+p2437
+aS'Gas Station'
+p2438
+aS'Genoa Italy'
+p2439
+aS'Georgetown'
+p2440
+aS'Germany'
+p2441
+aS'Gettysburg'
+p2442
+aS'Gettysburg National Military Park'
+p2443
+aS'Ghana'
+p2444
+aS'Gibraltar'
+p2445
+aS'Glendale California'
+p2446
+aS'Gloucester'
+p2447
+aS'Grade School'
+p2448
+aS'Granada Spain'
+p2449
+aS'Grand Cayman'
+p2450
+aS'Great Bear Lake Canada'
+p2451
+aS'Great Britain'
+p2452
+aS'Greece'
+p2453
+aS'Green Room'
+p2454
+aS'Grenada'
+p2455
+aS'Hamburg Germany'
+p2456
+aS'Harbor'
+p2457
+aS'Harlem'
+p2458
+aS'Harrisburg'
+p2459
+aS'Hartford Connecticut'
+p2460
+aS'Hattiesburg Mississippi'
+p2461
+aS'Heidelberg Germany'
+p2462
+aS'Hermosa Beach California'
+p2463
+aS'Highway Rest Stop'
+p2464
+aS'Hiroshima Japan'
+p2465
+aS'Hoboken New Jersey'
+p2466
+aS'Holland'
+p2467
+aS'Hollywood'
+p2468
+aS'Hometown'
+p2469
+aS'Hospital'
+p2470
+aS'Hotel Room'
+p2471
+aS'Hotel Suite'
+p2472
+aS'Houston Texas'
+p2473
+aS'Hungary'
+p2474
+aS'Hunting Lodge'
+p2475
+aS'Ice Rink'
+p2476
+aS'Iceland'
+p2477
+aS'India'
+p2478
+aS'Indochina'
+p2479
+aS'Inverness Scotland'
+p2480
+aS'Irvine California'
+p2481
+aS'Italy'
+p2482
+aS'Ithaca New York'
+p2483
+aS'Jamestown Virginia'
+p2484
+aS'Jericho'
+p2485
+aS'Joe Robbie Stadium In Miami'
+p2486
+aS'Joliet Illinois'
+p2487
+aS'Junior High School'
+p2488
+aS'Kabul Afghanistan'
+p2489
+aS'Key Largo Florida'
+p2490
+aS'Key West Florida'
+p2491
+aS'Khartoum Sudan'
+p2492
+aS'Kuwait'
+p2493
+aS'Kyoto Japan'
+p2494
+aS'Lafayette Louisiana'
+p2495
+aS'Lake Huron'
+p2496
+aS'Lake Erie'
+p2497
+aS'Lakehurst Naval Air Station'
+p2498
+aS'Lancaster'
+p2499
+aS'Lansing Michigan'
+p2500
+aS'Laredo Texas'
+p2501
+aS'Leeds England'
+p2502
+aS'Library'
+p2503
+aS'Libya'
+p2504
+aS"London's Hyde Park"
+p2505
+aS"London's Mayfair District"
+p2506
+aS'Los Angeles'
+p2507
+aS'Los Alamos New Mexico'
+p2508
+aS'Lucerne Switzerland'
+p2509
+aS'Lyon France'
+p2510
+aS'Madison Avenue'
+p2511
+aS'Madrid Spain'
+p2512
+aS'Managua Nicaragua'
+p2513
+aS'Manhattan'
+p2514
+aS'Manila Philippines'
+p2515
+aS'Manitoba Canada'
+p2516
+aS'Marin County California'
+p2517
+aS"Martha's Vineyard"
+p2518
+aS'Mesopotamia'
+p2519
+aS'Miami Florida'
+p2520
+aS"Michigan's Upper Peninsula"
+p2521
+aS'Micronesia'
+p2522
+aS'Middletown Connecticut'
+p2523
+aS'Milwaukee Wisconsin'
+p2524
+aS'Minnesota'
+p2525
+aS'Modesto California'
+p2526
+aS'Monaco'
+p2527
+aS'Montclair New Jersey'
+p2528
+aS'Montenegro'
+p2529
+aS'Monticello'
+p2530
+aS'Montserrat'
+p2531
+aS'Morocco'
+p2532
+aS"Moscow's Red Square"
+p2533
+aS'Mount Holyoke College'
+p2534
+aS'Mount Shasta'
+p2535
+aS'Movie Theater'
+p2536
+aS'Muncie Indiana'
+p2537
+aS'Munich Germany'
+p2538
+aS'Naples Florida'
+p2539
+aS'Nassau'
+p2540
+aS'Natchez Mississippi'
+p2541
+aS'Nazareth'
+p2542
+aS'Never-Never Land'
+p2543
+aS'Nevis West Indies'
+p2544
+aS'New Jersey'
+p2545
+aS'New Orleans Louisiana'
+p2546
+aS'New Jersey Turnpike'
+p2547
+aS'New York Thruway'
+p2548
+aS"New York's Central Park"
+p2549
+aS"New York's Harlem"
+p2550
+aS"New York's Hudson River"
+p2551
+aS"New York's Lake Chautauqua"
+p2552
+aS"New York's Lake Onondaga"
+p2553
+aS"New York's Westchester County"
+p2554
+aS'Norfolk Virginia'
+p2555
+aS'Normandy'
+p2556
+aS'Norwalk Connecticut'
+p2557
+aS'Nursery School'
+p2558
+aS'Observation Booth'
+p2559
+aS'Ogden Utah'
+p2560
+aS'Olympia Washington'
+p2561
+aS'Omaha Nebraska'
+p2562
+aS'Orlando Florida'
+p2563
+aS'Oshkosh Wisconsin'
+p2564
+aS'Oxford Mississippi'
+p2565
+aS'Oxnard California'
+p2566
+aS'Palermo Sicily'
+p2567
+aS'Palestine'
+p2568
+aS'Palm Beach'
+p2569
+aS'Palm Springs'
+p2570
+aS'Paris France'
+p2571
+aS'Park Place'
+p2572
+aS'Patagonia'
+p2573
+aS'Peninsula'
+p2574
+aS'Pennsylvania Dutch Country'
+p2575
+aS'Penthouse'
+p2576
+aS'Peoria Illinois'
+p2577
+aS'Permanent Residence'
+p2578
+aS'Perth Australia'
+p2579
+aS'Phone Booth'
+p2580
+aS'Pittsburgh'
+p2581
+aS'Plainfield New Jersey'
+p2582
+aS'Pompeii'
+p2583
+aS'Port Of Call'
+p2584
+aS'Portsmouth'
+p2585
+aS'Power Plant'
+p2586
+aS'Prague'
+p2587
+aS'Prep School'
+p2588
+aS'Prescott Arizona'
+p2589
+aS'Princeton University'
+p2590
+aS'Prison Cell'
+p2591
+aS'Promenade Deck'
+p2592
+aS'Proving Ground'
+p2593
+aS'Prussia'
+p2594
+aS'Public Library'
+p2595
+aS'Puerto Rico'
+p2596
+aS'Purdue University'
+p2597
+aS'Quantico Virginia'
+p2598
+aS'Quebec City'
+p2599
+aS'Queensland Australia'
+p2600
+aS'Quincy Illinois'
+p2601
+aS'Racetrack'
+p2602
+aS'Redmond Washington'
+p2603
+aS'Reform School'
+p2604
+aS'Residence'
+p2605
+aS'Restroom'
+p2606
+aS'Rhodes Greece'
+p2607
+aS'Rimini Italy'
+p2608
+aS'Rochester New York'
+p2609
+aS'Rock Garden'
+p2610
+aS'Rockland County New York'
+p2611
+aS"Rome's Tiber River"
+p2612
+aS'Rooming House'
+p2613
+aS'Root Cellar'
+p2614
+aS'Rutgers University'
+p2615
+aS'Rutland Vermont'
+p2616
+aS'Safe Haven'
+p2617
+aS'Saint Petersburg Florida'
+p2618
+aS'Salad Bar'
+p2619
+aS'Saloon'
+p2620
+aS'San Francisco'
+p2621
+aS"San Francisco's Haight-Ashbury"
+p2622
+aS'Sand Trap'
+p2623
+aS'Santa Barbara California'
+p2624
+aS'Sarasota Florida'
+p2625
+aS'Saratoga New York'
+p2626
+aS'Savannah Georgia'
+p2627
+aS'Scandinavia'
+p2628
+aS'Scarsdale New York'
+p2629
+aS'Scene Of The Crime'
+p2630
+aS'School House'
+p2631
+aS'Schoolroom'
+p2632
+aS'Seaport'
+p2633
+aS'Seat Of Government'
+p2634
+aS'Seattle Washington'
+p2635
+aS'Selma Alabama'
+p2636
+aS'Seneca Falls New York'
+p2637
+aS'Senior High School'
+p2638
+aS'Service Station'
+p2639
+aS'Seville Spain'
+p2640
+aS'Shiloh Tennessee'
+p2641
+aS'Shoe Repair Shop'
+p2642
+aS'Siena Italy'
+p2643
+aS'Singapore'
+p2644
+aS'Ski Resort'
+p2645
+aS'Snake Pit'
+p2646
+aS'Solomon Islands'
+p2647
+aS'Sonoma County California'
+p2648
+aS'Sonora Mexico'
+p2649
+aS'Soup Kitchen'
+p2650
+aS"South Dakota's Badlands"
+p2651
+aS'South Korea'
+p2652
+aS'Southampton New York'
+p2653
+aS'Sparta Greece'
+p2654
+aS'St. Petersburg Russia'
+p2655
+aS'St. Thomas'
+p2656
+aS'St. Croix'
+p2657
+aS'Stable'
+p2658
+aS'Stadium'
+p2659
+aS'Stairwell'
+p2660
+aS'Staten Island'
+p2661
+aS'Stateroom'
+p2662
+aS'Steamboat Springs Colorado'
+p2663
+aS'Stockton California'
+p2664
+aS'Store'
+p2665
+aS'Street Corner'
+p2666
+aS'Stronghold'
+p2667
+aS'Study Hall'
+p2668
+aS'Subdivision'
+p2669
+aS'Sudan'
+p2670
+aS'Suez Canal'
+p2671
+aS'Sumatra Indonesia'
+p2672
+aS'Summer School'
+p2673
+aS'Summer Camp'
+p2674
+aS'Sunnyvale California'
+p2675
+aS'Switzerland'
+p2676
+aS'Sydney Australia'
+p2677
+aS'Tahiti'
+p2678
+aS'Tallahassee Florida'
+p2679
+aS'Tampa Florida'
+p2680
+aS'Taos New Mexico'
+p2681
+aS'Tarrytown New York'
+p2682
+aS'Tavern'
+p2683
+aS'Tempe Arizona'
+p2684
+aS'Terrace'
+p2685
+aS'The Adirondacks'
+p2686
+aS'The African Nation Of Chad'
+p2687
+aS'The Allegheny Mountains'
+p2688
+aS'The Atlantic Ocean'
+p2689
+aS'The Australian Outback'
+p2690
+aS'The Canadian Province Of Alberta'
+p2691
+aS'The Catskill Mountains'
+p2692
+aS'The Country Of Laos'
+p2693
+aS'The Cumberland Gap'
+p2694
+aS'The District Of Columbia'
+p2695
+aS'The French Riviera'
+p2696
+aS'The Garden Of Eden'
+p2697
+aS'The Himalayas'
+p2698
+aS'The Island Of Malta'
+p2699
+aS'The Italian Riviera'
+p2700
+aS'The Library Of Congress'
+p2701
+aS'The Midwest'
+p2702
+aS'The Mississippi Delta'
+p2703
+aS'The Netherlands'
+p2704
+aS'The Planet Mars'
+p2705
+aS'The Planet Neptune'
+p2706
+aS'The Planet Saturn'
+p2707
+aS'The Planet Jupiter'
+p2708
+aS'The Planet Uranus'
+p2709
+aS'The Poconos'
+p2710
+aS'The Potomac River'
+p2711
+aS'The Rhine River'
+p2712
+aS'The River Nile'
+p2713
+aS'The Rockies'
+p2714
+aS'The Sahara Desert'
+p2715
+aS'The Tigris River'
+p2716
+aS'The Wabash River'
+p2717
+aS'The West Indies'
+p2718
+aS'The Yucatan Peninsula'
+p2719
+aS'The Yukon'
+p2720
+aS'The Alps'
+p2721
+aS'The Andes Mountains'
+p2722
+aS'The Bronx'
+p2723
+aS'The Czech Republic'
+p2724
+aS'The French Quarter In New Orleans'
+p2725
+aS'The Island Of Bali'
+p2726
+aS'The Island Of Guam'
+p2727
+aS'The Isle Of Wight'
+p2728
+aS'The Lost Continent Of Atlantis'
+p2729
+aS'The Mason-Dixon Line'
+p2730
+aS'The North Pole'
+p2731
+aS'The North Pole'
+p2732
+aS'The Orange Bowl In Miami'
+p2733
+aS'The Ozarks'
+p2734
+aS'The Rim Of The Grand Canyon'
+p2735
+aS'The Rose Bowl In Pasadena'
+p2736
+aS'The Sea Of Galilee'
+p2737
+aS'The Set Of A Movie'
+p2738
+aS'The South American Country Of Peru'
+p2739
+aS'Toledo Ohio'
+p2740
+aS'Topeka Kansas'
+p2741
+aS'Toronto Ontario Canada'
+p2742
+aS'Tourist Trap'
+p2743
+aS'Town'
+p2744
+aS'Town Hall'
+p2745
+aS'Townhouse'
+p2746
+aS'Train Station'
+p2747
+aS'Tropic Of Cancer'
+p2748
+aS'Tropic Of Capricorn'
+p2749
+aS'Tucson Arizona'
+p2750
+aS'Tulane University'
+p2751
+aS'Tunisia'
+p2752
+aS'Tuscaloosa Alabama'
+p2753
+aS'Tuscany'
+p2754
+aS'Uganda'
+p2755
+aS'Ukraine'
+p2756
+aS'United States Naval Academy'
+p2757
+aS'United States Of America'
+p2758
+aS'Used Car Lot'
+p2759
+aS"Utah's Bonneville Salt Flats"
+p2760
+aS'Utica New York'
+p2761
+aS'Vail Colorado'
+p2762
+aS'Valhalla'
+p2763
+aS'Valley Forge'
+p2764
+aS'Vancouver British Columbia'
+p2765
+aS'Vassar College'
+p2766
+aS'Vicksburg Mississippi'
+p2767
+aS'Vietnam'
+p2768
+aS"Volcano's Crater"
+p2769
+aS'Walden Pond'
+p2770
+aS'Warehouse'
+p2771
+aS'Waterbury Connecticut'
+p2772
+aS'West Point'
+p2773
+aS'Windsor Ontario'
+p2774
+aS"Winner's Circle"
+p2775
+aS'Workroom'
+p2776
+aS'Yakima Washington'
+p2777
+aS'Yale University'
+p2778
+aS'Yokohama Japan'
+p2779
+aS'Yonkers New York'
+p2780
+aS'Yorktown Virginia'
+p2781
+aS'Youngstown Ohio'
+p2782
+aS'Yuma Arizona'
+p2783
+aS'Zermatt Switzerland'
+p2784
+aS'Zimbabwe'
+p2785
+asS'Phrase'
+p2786
+(lp2787
+S'A Momentary Lapse'
+p2788
+aS'A Reflection Of Our Times'
+p2789
+aS'A Cursory Glance'
+p2790
+aS'A Dead Ringer'
+p2791
+aS'A Far Far Better Thing'
+p2792
+aS'A Figment Of Your Imagination'
+p2793
+aS'A Fox In The Henhouse'
+p2794
+aS'A Fresh Point Of View'
+p2795
+aS'A Friend In Need Is A Friend Indeed'
+p2796
+aS'A Gleam In Your Eye'
+p2797
+aS'A Gutsy Move'
+p2798
+aS'A Land-Office Business'
+p2799
+aS'A Matter Of Policy'
+p2800
+aS'A Meal In Itself'
+p2801
+aS'A Moot Point'
+p2802
+aS'A Novel Idea'
+p2803
+aS'A Penny For Your Thoughts'
+p2804
+aS'A Plan Of Action'
+p2805
+aS'A Rolling Stone Gathers No Moss'
+p2806
+aS'A Run For Your Money'
+p2807
+aS'A Slight Chance Of Showers'
+p2808
+aS'A Stab In The Back'
+p2809
+aS'A Stitch In Time Saves Nine'
+p2810
+aS'A Straw In The Wind'
+p2811
+aS'A Sure Thing'
+p2812
+aS'A Total Loss'
+p2813
+aS'Alive And Kicking'
+p2814
+aS'All Along The Line'
+p2815
+aS'All That Glitters Is Not Gold'
+p2816
+aS"All's Fair In Love And War"
+p2817
+aS'An Apple A Day Keeps The Doctor Away'
+p2818
+aS'An Exception To The Rule'
+p2819
+aS'An Extra Pair Of Eyes'
+p2820
+aS'An Uphill Battle'
+p2821
+aS'And All That Jazz'
+p2822
+aS'Animal Vegetable Or Mineral'
+p2823
+aS'Are You Decent'
+p2824
+aS'Are You Waiting For An Engraved Invitation'
+p2825
+aS'Around The Bend'
+p2826
+aS'As Pure As The Driven Snow'
+p2827
+aS"As Rare As Hens' Teeth"
+p2828
+aS'At Any Rate'
+p2829
+aS'At The Helm'
+p2830
+aS'At The Present Time'
+p2831
+aS'At The Same Time'
+p2832
+aS'Batteries Not Included'
+p2833
+aS'Battling The Forces Of Evil'
+p2834
+aS'Be Still'
+p2835
+aS'Been Down So Long It Looks Like Up To Me'
+p2836
+aS'Before The Parade Passes You By'
+p2837
+aS"Beggars Can't Be Choosers"
+p2838
+aS'Behave Yourself'
+p2839
+aS'Behind The Scenes'
+p2840
+aS'Behind The Eight-Ball'
+p2841
+aS'Behind The Wheel'
+p2842
+aS'Besieged With Requests'
+p2843
+aS'Betwixt And Between'
+p2844
+aS'Birds Of A Feather Flock Together'
+p2845
+aS'Bite The Bullet'
+p2846
+aS'Blood Is Thicker Than Water'
+p2847
+aS'Brace Yourself'
+p2848
+aS'Breath-Taking Beauty'
+p2849
+aS'Bring Them Into The Fold'
+p2850
+aS'Busy As A Bee'
+p2851
+aS'Buying On Margin'
+p2852
+aS'By The Nape Of The Neck'
+p2853
+aS'Call A Cab'
+p2854
+aS'Can A Leopard Change Its Spots'
+p2855
+aS'Can I Quote You On That'
+p2856
+aS'Cash And Carry'
+p2857
+aS'Cash On The Barrelhead'
+p2858
+aS'Cast Aspersions'
+p2859
+aS'Catch-As-Catch-Can'
+p2860
+aS'Caught Short-Handed'
+p2861
+aS'Cease And Desist'
+p2862
+aS'Change Your Tune'
+p2863
+aS'Charity Begins At Home'
+p2864
+aS'Check Please'
+p2865
+aS'Check Your Sources'
+p2866
+aS'Chewing Its Cud'
+p2867
+aS'Class Dismissed'
+p2868
+aS'Clean Your Room'
+p2869
+aS'Clip Coupons'
+p2870
+aS'Close Quarters'
+p2871
+aS'Closed Until Further Notice'
+p2872
+aS'Cross Your Palm With Silver'
+p2873
+aS'Cry Yourself To Sleep'
+p2874
+aS'Curiosity Killed The Cat'
+p2875
+aS'Current Whereabouts Unknown'
+p2876
+aS'Cut And Dried'
+p2877
+aS'Cut And Paste'
+p2878
+aS'Cute As A Button'
+p2879
+aS'Dim The Lights'
+p2880
+aS'Dinner Is In The Oven'
+p2881
+aS'Do Your Duty'
+p2882
+aS"Don't Look Back"
+p2883
+aS"Don't Make Waves"
+p2884
+aS"Don't Talk Back"
+p2885
+aS"Don't Be So Naive"
+p2886
+aS"Don't Be Such A Pest"
+p2887
+aS"Don't Get Nasty With Me"
+p2888
+aS"Don't Give Me Any Lip"
+p2889
+aS"Don't Just Stand There"
+p2890
+aS"Don't Let It Slip Away"
+p2891
+aS"Don't Lie Down On The Job"
+p2892
+aS"Don't Put All Your Eggs In One Basket"
+p2893
+aS"Don't Stand On Ceremony"
+p2894
+aS"Don't Take It Lying Down"
+p2895
+aS'Double Your Pleasure'
+p2896
+aS'Down The Drain'
+p2897
+aS'Down Under'
+p2898
+aS'Duck For Cover'
+p2899
+aS'Earn Your Keep'
+p2900
+aS'Easier Said Than Done'
+p2901
+aS'East Is East And West Is West'
+p2902
+aS'End Of The Line'
+p2903
+aS'End Of The Road'
+p2904
+aS'Enjoy It While You Can'
+p2905
+aS'Enough Is Enough'
+p2906
+aS'Every Cloud Has A Silver Lining'
+p2907
+aS'Every Tom Dick And Harry'
+p2908
+aS'Face To Face'
+p2909
+aS'Facing The Future'
+p2910
+aS'Fade Away'
+p2911
+aS'Fair To Middling'
+p2912
+aS'Faith And Trust'
+p2913
+aS'Fame And Fortune'
+p2914
+aS'Familiarity Breeds Contempt'
+p2915
+aS'Famous Last Words'
+p2916
+aS'Feed A Cold And Starve A Fever'
+p2917
+aS'Feel The Heat'
+p2918
+aS'Fifteen Minutes Of Fame'
+p2919
+aS'Fighting Tooth And Nail'
+p2920
+aS'Fill Me In On It'
+p2921
+aS'Find Favor With'
+p2922
+aS'Finders Keepers'
+p2923
+aS'Fleet Of Foot'
+p2924
+aS'Fluent In Five Languages'
+p2925
+aS'Fly By Night'
+p2926
+aS'Flying Blind'
+p2927
+aS'Foiled At Every Turn'
+p2928
+aS'Follow The Leader'
+p2929
+aS'Follow The Herd'
+p2930
+aS"Fool's Errand"
+p2931
+aS'Foot The Bill'
+p2932
+aS'Footloose And Fancy Free'
+p2933
+aS"For Heaven's Sake"
+p2934
+aS"For Pity's Sake"
+p2935
+aS'For All Intents And Purposes'
+p2936
+aS'For All The World To See'
+p2937
+aS'For Better For Worse'
+p2938
+aS'For Keeps'
+p2939
+aS'For Richer For Poorer'
+p2940
+aS'For The Love Of Mike'
+p2941
+aS'For Your Information'
+p2942
+aS'Fork It Over'
+p2943
+aS'From Another Planet'
+p2944
+aS'From Coast To Coast'
+p2945
+aS'From Stem To Stern'
+p2946
+aS'From This Day Forward'
+p2947
+aS'Funny Money'
+p2948
+aS'Game Set And Match'
+p2949
+aS'Get A Grip On Yourself'
+p2950
+aS'Get A Leg Up'
+p2951
+aS'Get A Fix On It'
+p2952
+aS'Get In Just Under The Wire'
+p2953
+aS'Getting A Fair Shake'
+p2954
+aS'Getting The Cold Shoulder'
+p2955
+aS'Giant Size'
+p2956
+aS'Give Him Enough Rope To Hang Himself'
+p2957
+aS'Give Him His Walking Papers'
+p2958
+aS'Give It The Old College Try'
+p2959
+aS'Give It Your Best Effort'
+p2960
+aS'Give Me A Sign'
+p2961
+aS'Give Your Notice'
+p2962
+aS'Glad To Meet You'
+p2963
+aS'Go Ahead Sue Me'
+p2964
+aS'Go Figure'
+p2965
+aS'Go For Broke'
+p2966
+aS'Go Out Of Your Way'
+p2967
+aS'Going Full Throttle'
+p2968
+aS'Going Going Gone'
+p2969
+aS'Going Great Guns'
+p2970
+aS'Going To Town'
+p2971
+aS'Going By The Script'
+p2972
+aS"Gone Fishin'"
+p2973
+aS'Gone To Seed'
+p2974
+aS'Good Grief'
+p2975
+aS'Good For Nothing'
+p2976
+aS'Graduate With Honors'
+p2977
+aS'Great Day In The Morning'
+p2978
+aS'Grow Up'
+p2979
+aS'Guess Again'
+p2980
+aS'Guilty As Charged'
+p2981
+aS'Halt Who Goes There'
+p2982
+aS'Hand Over Fist'
+p2983
+aS'Hands Up'
+p2984
+aS'Hang Around'
+p2985
+aS'Hang On'
+p2986
+aS'Hardly A Day Goes By'
+p2987
+aS'Haste Makes Waste'
+p2988
+aS'Have A Nice Day'
+p2989
+aS"Haven't Seen Hide Nor Hair Of Him"
+p2990
+aS'Having A Ball'
+p2991
+aS'He Got A Raw Deal'
+p2992
+aS'He Speaks Very Highly Of You'
+p2993
+aS'He Who Hesitates Is Lost'
+p2994
+aS"He's Got A Few Loose Screws"
+p2995
+aS'Heaven And Earth'
+p2996
+aS'Heaven Only Knows'
+p2997
+aS'Heavens Above'
+p2998
+aS'Here And Now'
+p2999
+aS'High And Dry'
+p3000
+aS'Highs And Lows'
+p3001
+aS'His And Hers'
+p3002
+aS'Hit The Jackpot'
+p3003
+aS'Hold On Tight'
+p3004
+aS'Holding Up Your End Of The Bargain'
+p3005
+aS'Home Sweet Home'
+p3006
+aS'How Much Do You Need'
+p3007
+aS'Hurry Home'
+p3008
+aS'I Beg Your Pardon'
+p3009
+aS'I Can Manage Just Fine'
+p3010
+aS"I Can't Recall"
+p3011
+aS'I Demand My Rights'
+p3012
+aS"I Don't Mind If I Do"
+p3013
+aS"I Don't Want To Burst Your Bubble"
+p3014
+aS'I Gave At The Office'
+p3015
+aS'I Gave It Up For Lent'
+p3016
+aS'I Hate To Eat And Run'
+p3017
+aS'I Have No Use For It'
+p3018
+aS'I Have Nothing More To Say'
+p3019
+aS'I Have It All At My Fingertips'
+p3020
+aS"I Haven't Got A Clue"
+p3021
+aS'I Hear You Loud And Clear'
+p3022
+aS'I Knew It All Along'
+p3023
+aS'I Know What I Saw'
+p3024
+aS'I Like It Like That'
+p3025
+aS'I Mean What I Say'
+p3026
+aS'I Regret To Inform You'
+p3027
+aS'I Second The Motion'
+p3028
+aS'I Spoke Too Soon'
+p3029
+aS'I Tip My Hat To You'
+p3030
+aS'I Want To Be Alone'
+p3031
+aS'I Wash My Hands Of It'
+p3032
+aS"I'll Be With You In A Minute"
+p3033
+aS"I'll Run A Tab"
+p3034
+aS"I'll Take You At Your Word"
+p3035
+aS"I'm Looking Forward To It"
+p3036
+aS"I'm Fond Of You"
+p3037
+aS"I'm In Seventh Heaven"
+p3038
+aS"I'm Not Buying It"
+p3039
+aS"I'm Out Of Here"
+p3040
+aS"I'm Stuck On You"
+p3041
+aS"I'm Trying To Get The Kinks Out"
+p3042
+aS"I've Formed An Opinion"
+p3043
+aS"I've Got My Money On You"
+p3044
+aS'If Looks Could Kill'
+p3045
+aS'In Broad Daylight'
+p3046
+aS'In Fits And Starts'
+p3047
+aS'In Hot Water'
+p3048
+aS'In My Neck Of The Woods'
+p3049
+aS'In One Ear And Out The Other'
+p3050
+aS'In The Face Of Danger'
+p3051
+aS'In The Flesh'
+p3052
+aS'In The Line Of Duty'
+p3053
+aS'In The Nick Of Time'
+p3054
+aS'In The Prime Of Life'
+p3055
+aS'In Your Neck Of The Woods'
+p3056
+aS'In Your Stocking Feet'
+p3057
+aS"It Couldn't Happen To A Nicer Guy"
+p3058
+aS"It Didn't Pan Out"
+p3059
+aS"It Didn't Ring True"
+p3060
+aS'It Never Fails'
+p3061
+aS'It Seems Like Only Yesterday'
+p3062
+aS'It Takes All Kinds'
+p3063
+aS'It Takes Guts'
+p3064
+aS'It Takes Two To Tango'
+p3065
+aS'It Varies From Day To Day'
+p3066
+aS'It Will Come To Pass'
+p3067
+aS"It's A Crying Shame"
+p3068
+aS"It's A Dog-Eat-Dog World"
+p3069
+aS"It's A Living"
+p3070
+aS"It's A Pity"
+p3071
+aS"It's A Snap"
+p3072
+aS"It's All The Rage"
+p3073
+aS"It's High Time"
+p3074
+aS"It's No Skin Off My Nose"
+p3075
+aS"It's No Use Crying Over Spilt Milk"
+p3076
+aS"It's Not All It's Cracked Up To Be"
+p3077
+aS"It's Only Money"
+p3078
+aS"It's Your Move"
+p3079
+aS'Jumping To Conclusions'
+p3080
+aS'Just Like Starting Over'
+p3081
+aS'Just One Of The Guys'
+p3082
+aS'Keep At It'
+p3083
+aS'Keep It To Yourself'
+p3084
+aS'Keep It Under Wraps'
+p3085
+aS'Keep The Peace'
+p3086
+aS'Keep Those Cards And Letters Coming'
+p3087
+aS'Keep Time'
+p3088
+aS'Keep Your Eyes Peeled'
+p3089
+aS'Keep Your Fingers Crossed'
+p3090
+aS'Keep Your Head'
+p3091
+aS'Keep Your Losses To A Minimum'
+p3092
+aS'Keeping Things On An Even Keel'
+p3093
+aS'Keeping Up With The Joneses'
+p3094
+aS'Knock On Wood'
+p3095
+aS'Land On Your Feet'
+p3096
+aS'Landed With A Thud'
+p3097
+aS'Larger Than Life'
+p3098
+aS'Last But Not Least'
+p3099
+aS'Lean And Mean'
+p3100
+aS'Less Is More'
+p3101
+aS'Let It Ride'
+p3102
+aS'Let The Buyer Beware'
+p3103
+aS'Let Your Hair Down'
+p3104
+aS"Let's Make Tracks"
+p3105
+aS"Let's Play Fair"
+p3106
+aS'Lie In State'
+p3107
+aS'Like A Bull In A China Shop'
+p3108
+aS'Like Father Like Son'
+p3109
+aS'Like Taking Candy From A Baby'
+p3110
+aS'Like Two Peas In A Pod'
+p3111
+aS'Listen To Reason'
+p3112
+aS'Living Proof'
+p3113
+aS'Living Up To Expectations'
+p3114
+aS'Living In The Lap Of Luxury'
+p3115
+aS'Lo And Behold'
+p3116
+aS'Loads Of Fun'
+p3117
+aS'Look Before You Leap'
+p3118
+aS"Looks Aren't Everything"
+p3119
+aS'Lost And Found'
+p3120
+aS'Made In America'
+p3121
+aS'Make Yourself Scarce'
+p3122
+aS'Make A Funny Face'
+p3123
+aS"Make Me An Offer I Can't Resist"
+p3124
+aS'Make Time'
+p3125
+aS'Make Way'
+p3126
+aS'Making A Big Splash'
+p3127
+aS'Making Eye Contact'
+p3128
+aS'Meeting On Neutral Ground'
+p3129
+aS'Might Makes Right'
+p3130
+aS'Mind Your Own Business'
+p3131
+aS"Moving At A Snail's Pace"
+p3132
+aS'My Suitcases Are Packed'
+p3133
+aS'Neat As A Pin'
+p3134
+aS'Never A Dull Moment'
+p3135
+aS'Never Trust Anyone Over Thirty'
+p3136
+aS'New And Improved'
+p3137
+aS'News At Eleven'
+p3138
+aS'Nice To See You'
+p3139
+aS'No Offense Meant'
+p3140
+aS'No Questions Asked'
+p3141
+aS'No More Mr. Nice Guy'
+p3142
+aS'No Place To Hide'
+p3143
+aS'No Pun Intended'
+p3144
+aS'No Room For Error'
+p3145
+aS'No Takers'
+p3146
+aS'Not At The Moment'
+p3147
+aS'Not For All The Tea In China'
+p3148
+aS'Not For Publication'
+p3149
+aS'Not My Style'
+p3150
+aS'Not On Your Life'
+p3151
+aS'Not Worth A Hill Of Beans'
+p3152
+aS'Nothing But Trouble'
+p3153
+aS'Nothing But The Best'
+p3154
+aS'Nothing In Common'
+p3155
+aS'Nothing To Lose'
+p3156
+aS'Now Hear This'
+p3157
+aS'Nurse Your Wounds'
+p3158
+aS'Odd Man Out'
+p3159
+aS'Off Limits'
+p3160
+aS'Off And Running'
+p3161
+aS'Off To The Races'
+p3162
+aS'Old Habits Die Hard'
+p3163
+aS'On The Face Of It'
+p3164
+aS'On The Launching Pad'
+p3165
+aS'On The Level'
+p3166
+aS'On The Make'
+p3167
+aS'On The Right Track'
+p3168
+aS'On The Straight And Narrow'
+p3169
+aS'On The Tip Of My Tongue'
+p3170
+aS'On The Verge Of Tears'
+p3171
+aS'On The Move'
+p3172
+aS'On The Run'
+p3173
+aS'Once And For All'
+p3174
+aS'Once In A Blue Moon'
+p3175
+aS'One In A Million'
+p3176
+aS'One Size Fits All'
+p3177
+aS'Or So He Said'
+p3178
+aS"Out Of Harm's Way"
+p3179
+aS'Out Of Sync'
+p3180
+aS'Out Of The Clear Blue Sky'
+p3181
+aS'Out Of The Loop'
+p3182
+aS'Out Of The Mouths Of Babes'
+p3183
+aS'Out Of The Running'
+p3184
+aS'Out Of Touch'
+p3185
+aS'Out On My Own'
+p3186
+aS'Over Hill And Dale'
+p3187
+aS'Over The Edge'
+p3188
+aS'Over The Top'
+p3189
+aS'Over The Top'
+p3190
+aS'Pacing Back And Forth'
+p3191
+aS'Paid In Full'
+p3192
+aS'Pamper Yourself'
+p3193
+aS'Pancakes'
+p3194
+aS'Paper Or Plastic'
+p3195
+aS'Pay The Piper'
+p3196
+aS'Pay Your Dues'
+p3197
+aS'Pay Your Own Way'
+p3198
+aS'People Will Talk'
+p3199
+aS'Pick A Card Any Card'
+p3200
+aS'Pick Up The Pace'
+p3201
+aS'Pinching Pennies'
+p3202
+aS'Pitch Black'
+p3203
+aS'Places Everyone'
+p3204
+aS'Places Everyone'
+p3205
+aS'Playing By The Rules'
+p3206
+aS'Please Wait Your Turn'
+p3207
+aS'Poetic Justice'
+p3208
+aS'Poetry In Motion'
+p3209
+aS'Point Of No Return'
+p3210
+aS'Power To The People'
+p3211
+aS'Practice Makes Perfect'
+p3212
+aS'Pretty As A Picture'
+p3213
+aS'Pull Back On The Reins'
+p3214
+aS'Pure Coincidence'
+p3215
+aS'Pure As The Driven Snow'
+p3216
+aS'Put Out The Fire'
+p3217
+aS'Put Up A Good Fight'
+p3218
+aS'Put Your Cards On The Table'
+p3219
+aS'Putting Down Roots'
+p3220
+aS'Quick As A Wink'
+p3221
+aS"Quit While You're Ahead"
+p3222
+aS'Ragged Around The Edges'
+p3223
+aS'Rags To Riches Story'
+p3224
+aS'Raining Cats And Dogs'
+p3225
+aS'Ran Into A Little Snag'
+p3226
+aS'Ranting And Raving'
+p3227
+aS'Reaching The Outer Limits'
+p3228
+aS'Recommended Dosage'
+p3229
+aS"Related On My Mother's Side"
+p3230
+aS'Remember When'
+p3231
+aS'Ride Herd'
+p3232
+aS'Riding Tall In The Saddle'
+p3233
+aS'Right Of Way'
+p3234
+aS'Ring Around The Rosie'
+p3235
+aS'Rinky-Dink'
+p3236
+aS'Roll The Dice'
+p3237
+aS'Roll Up Your Sleeves'
+p3238
+aS'Room For One More'
+p3239
+aS'Rough Sailing Ahead'
+p3240
+aS'Round Off To The Nearest Number'
+p3241
+aS'Ruffled Feathers'
+p3242
+aS'Run For Your Life'
+p3243
+aS'Run Of The Mill'
+p3244
+aS'Safe And Sound'
+p3245
+aS'Sail Away'
+p3246
+aS'Save Your Pennies For A Rainy Day'
+p3247
+aS'Say Uncle'
+p3248
+aS'Scared Stiff'
+p3249
+aS"Season's Greetings"
+p3250
+aS'Seize The Moment'
+p3251
+aS'Selling Like Hotcakes'
+p3252
+aS'Sent Him Packing'
+p3253
+aS'Served On A Silver Platter'
+p3254
+aS'Set Aside Some Time'
+p3255
+aS'Set In His Ways'
+p3256
+aS'Share And Share Alike'
+p3257
+aS'Ship Ahoy'
+p3258
+aS'Short-Changed'
+p3259
+aS'Sight Unseen'
+p3260
+aS'Sign Of The Times'
+p3261
+aS'Signed Sealed And Delivered'
+p3262
+aS'Sincerely Yours'
+p3263
+aS'Sit Back And Relax'
+p3264
+aS'Skating On Thin Ice'
+p3265
+aS'Skin Deep'
+p3266
+aS'Slim Pickings'
+p3267
+aS'Slip Of The Tongue'
+p3268
+aS'Smooth As Silk'
+p3269
+aS'Snake Eyes'
+p3270
+aS'Snuggle Up'
+p3271
+aS'Sole Support'
+p3272
+aS'Something To That Effect'
+p3273
+aS'Soon Enough'
+p3274
+aS'Sound The Wrong Note'
+p3275
+aS'Spare The Rod And Spoil The Child'
+p3276
+aS'Speak Of The Devil'
+p3277
+aS'Spring Fever'
+p3278
+aS'Stand Back And Watch The Fur Fly'
+p3279
+aS'Stand Pat'
+p3280
+aS'State Of The Art'
+p3281
+aS'Stay On Your Toes'
+p3282
+aS'Stay Tuned'
+p3283
+aS'Steal Away'
+p3284
+aS'Stem The Tide'
+p3285
+aS'Stick It Out'
+p3286
+aS'Stick Out Your Tongue'
+p3287
+aS'Stir It Up'
+p3288
+aS'Stop At Nothing'
+p3289
+aS'Stop Making A Scene'
+p3290
+aS'Store This End Up'
+p3291
+aS'Stow Your Gear Here'
+p3292
+aS'Street Smart'
+p3293
+aS'Strictly Business'
+p3294
+aS'Strike While The Iron Is Hot'
+p3295
+aS'Strike A Pose'
+p3296
+aS'Strike It Rich'
+p3297
+aS'Supply And Demand'
+p3298
+aS'Swan Song'
+p3299
+aS'Sweep Under The Rug'
+p3300
+aS'Sweet Dreams'
+p3301
+aS'Swing Shift'
+p3302
+aS'Take A Memo'
+p3303
+aS'Take After Meals'
+p3304
+aS'Take Detailed Notes'
+p3305
+aS'Take Heart'
+p3306
+aS'Take Your Pick'
+p3307
+aS'Take A Back Seat'
+p3308
+aS'Take A Load Off'
+p3309
+aS'Take A Peek'
+p3310
+aS'Take A Siesta'
+p3311
+aS'Take It Easy'
+p3312
+aS'Take It On The Chin'
+p3313
+aS'Take It With A Grain Of Salt'
+p3314
+aS'Taken By Storm'
+p3315
+aS'Taking Advantage Of The Situation'
+p3316
+aS'Taking Care Of Business'
+p3317
+aS"Taking The Lion's Share"
+p3318
+aS'Taking Turns'
+p3319
+aS'Taking A Nap'
+p3320
+aS'Talk A Blue Streak'
+p3321
+aS'Talk It Over'
+p3322
+aS'Thank Your Lucky Stars'
+p3323
+aS'That Really Hits Home'
+p3324
+aS'That Remains To Be Seen'
+p3325
+aS'That Hits The Spot'
+p3326
+aS'That Was Then This Is Now'
+p3327
+aS"That'll Do The Trick"
+p3328
+aS"That's Strong Medicine"
+p3329
+aS"That's Tooting Your Own Horn"
+p3330
+aS"That's All She Wrote"
+p3331
+aS"That's All Well And Good"
+p3332
+aS"That's Not The Worst Of It"
+p3333
+aS"That's The Way Of The World"
+p3334
+aS'The Bigger They Are The Harder They Fall'
+p3335
+aS'The Calm Before The Storm'
+p3336
+aS'The Check Is In The Mail'
+p3337
+aS'The Crux Of The Matter'
+p3338
+aS'The Day Before Yesterday'
+p3339
+aS'The Early Bird Catches The Worm'
+p3340
+aS'The Facts Of Life'
+p3341
+aS'The Hustle And Bustle Of The Big City'
+p3342
+aS'The Lay Of The Land'
+p3343
+aS'The Letter Of The Law'
+p3344
+aS'The Manner To Which You Are Accustomed'
+p3345
+aS'The Milk Of Human Kindness'
+p3346
+aS'The More The Merrier'
+p3347
+aS'The Pen Is Mightier Than The Sword'
+p3348
+aS'The Plot Thickens'
+p3349
+aS'The Pot Calling The Kettle Black'
+p3350
+aS'The Proof Is In The Pudding'
+p3351
+aS"The Sky's The Limit"
+p3352
+aS'The Talk Of The Town'
+p3353
+aS'The Thrill Is Gone'
+p3354
+aS'The Voice Of Reason'
+p3355
+aS'The Whole Kit And Caboodle'
+p3356
+aS'The Whole Truth And Nothing But The Truth'
+p3357
+aS'The Worst Is Over'
+p3358
+aS"There's No Time Like The Present"
+p3359
+aS"There's No Such Thing As A Free Lunch"
+p3360
+aS'Thick As Thieves'
+p3361
+aS'Things Are Looking Up'
+p3362
+aS'Things Are Tough All Over'
+p3363
+aS'Things Change'
+p3364
+aS"Third Time's A Charm"
+p3365
+aS'Throw In The Towel'
+p3366
+aS'Tighten The Purse Strings'
+p3367
+aS'Time And A Half'
+p3368
+aS'Timing Is Everything'
+p3369
+aS'Tip The Scales'
+p3370
+aS'To Say The Least'
+p3371
+aS'To Your Health'
+p3372
+aS'Together In Unison'
+p3373
+aS'Too Many Cooks Spoil The Broth'
+p3374
+aS'Torn In Half'
+p3375
+aS'Transfer Of Deed'
+p3376
+aS'Trial And Error'
+p3377
+aS'True Blue'
+p3378
+aS'Tune It Out'
+p3379
+aS'Turned It Down Flat'
+p3380
+aS'Turned Tail And Ran'
+p3381
+aS'Twenty-Twenty Hindsight'
+p3382
+aS'Twice As Nice'
+p3383
+aS'Two Of A Kind'
+p3384
+aS"Two Wrongs Don't Make A Right"
+p3385
+aS'Until Further Notice'
+p3386
+aS'Up To The Minute'
+p3387
+aS'User-Friendly'
+p3388
+aS'Vice Versa'
+p3389
+aS'Wait Till Your Father Gets Home'
+p3390
+aS'Walk Down The Aisle'
+p3391
+aS'Walk The Plank'
+p3392
+aS'Wandering Around In A Complete Fog'
+p3393
+aS'Watch Out'
+p3394
+aS"We're Going Places"
+p3395
+aS"We're Poles Apart"
+p3396
+aS"We're In The Money"
+p3397
+aS'Westward Ho'
+p3398
+aS'What A Good Idea'
+p3399
+aS'What Do You Make Of That'
+p3400
+aS'What Exactly Are You Trying To Say'
+p3401
+aS"What's Mine Is Yours"
+p3402
+aS"What's The Score"
+p3403
+aS"What's Done Is Done"
+p3404
+aS'When I Say Jump You Ask How High'
+p3405
+aS'When Push Comes To Shove'
+p3406
+aS"Where There's A Will There's A Way"
+p3407
+aS"Where There's Smoke There's Fire"
+p3408
+aS'Wherever You May Roam'
+p3409
+aS'Whet Your Appetite'
+p3410
+aS'Why Not'
+p3411
+aS'Why The Long Face'
+p3412
+aS'Win By A Nose'
+p3413
+aS'Win Place Or Show'
+p3414
+aS'Wipe Out'
+p3415
+aS'Wishes Do Come True'
+p3416
+aS'With A Little Luck'
+p3417
+aS'Within Reason'
+p3418
+aS'Without A Trace'
+p3419
+aS'Woe Is Me'
+p3420
+aS"Won't You Please Join Us"
+p3421
+aS'Working Nine To Five'
+p3422
+aS'Worth His Weight In Gold'
+p3423
+aS'Write It Off'
+p3424
+aS'Year In Year Out'
+p3425
+aS'You Are Cordially Invited'
+p3426
+aS'You Can Take My Place'
+p3427
+aS"You Can't Have Your Cake And Eat It Too"
+p3428
+aS"You Can't Make A Silk Purse Out Of A Sow's Ear"
+p3429
+aS"You Can't Teach An Old Dog New Tricks"
+p3430
+aS"You'll Have Your Say"
+p3431
+aS"You're A Saint"
+p3432
+aS"You're Not My Cup Of Tea"
+p3433
+aS'Young At Heart'
+p3434
+aS"Your Number's Up"
+p3435
+aS'Your Place Or Mine'
+p3436
+aS'Yours Truly'
+p3437
+asS'Landmark'
+p3438
+(lp3439
+S'Acadia National Park'
+p3440
+aS"Bermuda's Pink Sand Beaches"
+p3441
+aS'Big Bend National Park'
+p3442
+aS'Boston Common'
+p3443
+aS'Bryce Canyon National Park'
+p3444
+aS'Buckingham Palace'
+p3445
+aS'Death Valley National Monument'
+p3446
+aS"Edison's Home In Menlo Park New Jersey"
+p3447
+aS'Ellis Island'
+p3448
+aS'Fort Davis National Historic Site'
+p3449
+aS'Fort Point National Historic Site'
+p3450
+aS'Fort Smith National Historic Site'
+p3451
+aS'Glacier National Park'
+p3452
+aS'Grand Canyon National Park'
+p3453
+aS'Hyde Park National Historic Site'
+p3454
+aS'Independence Hall In Philadelphia'
+p3455
+aS"India's Ganges River"
+p3456
+aS"Jerusalem's Wailing Wall"
+p3457
+aS'John Muir National Historic Site'
+p3458
+aS'Kings Canyon National Park'
+p3459
+aS'Lassen Volcanic National Park'
+p3460
+aS'London Bridge'
+p3461
+aS"London's Covent Garden"
+p3462
+aS"London's Tower Bridge"
+p3463
+aS'Mesa Verde National Park'
+p3464
+aS'Mount Palomar Observatory'
+p3465
+aS'Mount Rushmore'
+p3466
+aS'Muir Woods National Monument'
+p3467
+aS'Niagara Falls'
+p3468
+aS'Panama Canal'
+p3469
+aS'Petrified Forest National Park'
+p3470
+aS'Piccadilly Circus'
+p3471
+aS'Plymouth Rock'
+p3472
+aS'Redwood National Park'
+p3473
+aS"San Francisco's Fisherman's Wharf"
+p3474
+aS'Scotland Yard'
+p3475
+aS'Sequoia National Park'
+p3476
+aS'Serengeti National Park'
+p3477
+aS'Signal Hill National Historic Site'
+p3478
+aS"South Carolina's Fort Sumter"
+p3479
+aS'Stonehenge'
+p3480
+aS'The Eiffel Tower'
+p3481
+aS'The Jefferson Memorial'
+p3482
+aS'The Lincoln Memorial'
+p3483
+aS'The Palace Of Versailles'
+p3484
+aS'The Parthenon'
+p3485
+aS'The Smithsonian Institution'
+p3486
+aS'The Waldorf-Astoria Hotel'
+p3487
+aS'The Washington Monument'
+p3488
+aS'The White House'
+p3489
+aS'The Alamo'
+p3490
+aS'The Boston Post Road'
+p3491
+aS'The Egyptian Pyramids'
+p3492
+aS'The Empire State Building'
+p3493
+aS'The Gateway Arch In St. Louis'
+p3494
+aS'The Golden Gate Bridge'
+p3495
+aS'The Great Wall Of China'
+p3496
+aS'The Kremlin In Moscow'
+p3497
+aS'The Mission Of San Juan Capistrano'
+p3498
+aS'The Rock Of Gibraltar'
+p3499
+aS'The Sphinx'
+p3500
+aS'The Tower Of London'
+p3501
+aS"Thomas Jefferson's Monticello"
+p3502
+aS"Tokyo's Ginza District"
+p3503
+aS'Valley Forge National Historical Park'
+p3504
+aS'Walden Pond'
+p3505
+aS'Westminster Abbey'
+p3506
+aS'Winchester Cathedral'
+p3507
+aS'Windsor Castle'
+p3508
+asS'Fictional Characters'
+p3509
+(lp3510
+S'Beavis & Butthead'
+p3511
+aS'Big Bird Bert & Ernie'
+p3512
+aS'Gumby & Pokey'
+p3513
+aS'Hansel & Gretel'
+p3514
+aS'Jonny Quest & Bandit'
+p3515
+aS'Mermaids'
+p3516
+aS'Mufasa Simba & Scar'
+p3517
+aS'Ren & Stimpy'
+p3518
+aS'Rocky & Bullwinkle'
+p3519
+aS'The Dynamic Duo'
+p3520
+aS'The Hardy Boys'
+p3521
+aS'The Simpsons'
+p3522
+aS'Tom And Jerry'
+p3523
+asS'Family'
+p3524
+(lp3525
+S'Blythe Danner & Gwyneth Paltrow'
+p3526
+aS'Bruce & Laura Dern'
+p3527
+aS'Judy Garland & Liza Minelli'
+p3528
+aS'Loretta Lynn & Crystal Gayle'
+p3529
+aS'Michael & Olympia Dukakis'
+p3530
+aS'Naomi Wynonna & Ashley Judd'
+p3531
+aS'Tony & Jamie Lee Curtis'
+p3532
+aS'Vanessa & Lynn Redgrave'
+p3533
+aS'Warren Beatty & Shirley Maclaine'
+p3534
+aS'William Stephen & Alec Baldwin'
+p3535
+asS'People'
+p3536
+(lp3537
+S'A Foursome For Golf'
+p3538
+aS'Abbott And Costello'
+p3539
+aS'Absentee Voters'
+p3540
+aS'Ace Of Base'
+p3541
+aS'Actors'
+p3542
+aS'Amish Farmers'
+p3543
+aS'Atlanta Falcons'
+p3544
+aS'Australians'
+p3545
+aS'Baby Boomers'
+p3546
+aS'Baritone Bass & Tenor'
+p3547
+aS'Beat Poets'
+p3548
+aS'Bebe & Cece Winans'
+p3549
+aS'Blood Relatives'
+p3550
+aS'Boy Scout Troop'
+p3551
+aS"Britain's Labor Party"
+p3552
+aS'Cast Members'
+p3553
+aS'Celebrity Panel'
+p3554
+aS'Celts Picts & Saxons'
+p3555
+aS'Chicago Bears'
+p3556
+aS'Children'
+p3557
+aS'Choir'
+p3558
+aS'Coast Guard'
+p3559
+aS'Committee Members'
+p3560
+aS'Comparison Shoppers'
+p3561
+aS'Cops And Robbers'
+p3562
+aS'Counting Crows'
+p3563
+aS'Crash Test Dummies'
+p3564
+aS'Critics'
+p3565
+aS'Cypress Hill'
+p3566
+aS'Daughters Of The American Revolution'
+p3567
+aS'Democrats'
+p3568
+aS'Denver Broncos'
+p3569
+aS'Distinguished Colleagues'
+p3570
+aS'English Majors'
+p3571
+aS'Explorers'
+p3572
+aS'Family Members'
+p3573
+aS'Farm Team'
+p3574
+aS'Fast Friends'
+p3575
+aS'Father And Son'
+p3576
+aS'Firing Squad'
+p3577
+aS'Forefathers'
+p3578
+aS'Future Generations'
+p3579
+aS'Game Show Audience'
+p3580
+aS'Glee Club'
+p3581
+aS'Grammy Award Winners'
+p3582
+aS'Green Day'
+p3583
+aS'Grown-Ups'
+p3584
+aS'Gypsies'
+p3585
+aS'Historical Figures'
+p3586
+aS'Hootie And The Blowfish'
+p3587
+aS'Husband And Wife'
+p3588
+aS'Immigrants'
+p3589
+aS'Impostors'
+p3590
+aS'Indigo Girls'
+p3591
+aS'Infants'
+p3592
+aS'Inhabitants'
+p3593
+aS'Instructors'
+p3594
+aS'Journalists'
+p3595
+aS'Jugglers'
+p3596
+aS'Justices Of The Supreme Court'
+p3597
+aS'Kansas City Chiefs'
+p3598
+aS'Kindergarten Students'
+p3599
+aS'Kings And Queens'
+p3600
+aS'Lads And Lasses'
+p3601
+aS'Legislators'
+p3602
+aS'Liberals'
+p3603
+aS'Lords And Ladies'
+p3604
+aS'Los Angeles Raiders'
+p3605
+aS'Loyal Customers'
+p3606
+aS'Magazine Subscribers'
+p3607
+aS'Men Women And Children'
+p3608
+aS'Middle-Class Family'
+p3609
+aS'Minor League Players'
+p3610
+aS'Mohawk Indians'
+p3611
+aS'Mother And Daughter'
+p3612
+aS'Neighbors'
+p3613
+aS'New Orleans Saints'
+p3614
+aS'New York Jets'
+p3615
+aS'Nine Inch Nails'
+p3616
+aS'Nirvana'
+p3617
+aS'Old Friends'
+p3618
+aS'Opera Singers'
+p3619
+aS'Parent-Teacher Association'
+p3620
+aS'Parents'
+p3621
+aS'Partners In Crime'
+p3622
+aS'Pearl Jam'
+p3623
+aS'Pen Pals'
+p3624
+aS'Physicians'
+p3625
+aS'Pink Floyd'
+p3626
+aS'Playmates'
+p3627
+aS'Police Officers'
+p3628
+aS'Private Investigators'
+p3629
+aS'Producer And Director'
+p3630
+aS'Proprietors'
+p3631
+aS'Republicans'
+p3632
+aS'Role Models'
+p3633
+aS'Roman Emperors'
+p3634
+aS'Roommates'
+p3635
+aS'Salt-N-Pepa'
+p3636
+aS'San Francisco Forty-Niners'
+p3637
+aS'San Diego Chargers'
+p3638
+aS'Search Party'
+p3639
+aS'Senior Citizens'
+p3640
+aS'Seventh Grade Teachers'
+p3641
+aS'Simply Red'
+p3642
+aS'Sisters'
+p3643
+aS'Small Children'
+p3644
+aS'Smashing Pumpkins'
+p3645
+aS'Snake Charmers'
+p3646
+aS'Soundgarden'
+p3647
+aS'Sponsors'
+p3648
+aS'Squadron'
+p3649
+aS'State Legislature'
+p3650
+aS'Sumo Wrestlers'
+p3651
+aS'Sunday School Teachers'
+p3652
+aS'Switch Hitters'
+p3653
+aS'Symphony Orchestra'
+p3654
+aS'Talking Heads'
+p3655
+aS'Team Members'
+p3656
+aS'Teenagers'
+p3657
+aS'Texans'
+p3658
+aS'The Confederate Army'
+p3659
+aS'The Cranberries'
+p3660
+aS'The Czars Of Russia'
+p3661
+aS'The Doors'
+p3662
+aS'The Dream Team'
+p3663
+aS'The League Of Nations'
+p3664
+aS'The Mighty Ducks'
+p3665
+aS'The Monkees'
+p3666
+aS'The Peace Corps'
+p3667
+aS'The Sheriff & His Posse'
+p3668
+aS'The Brat Pack'
+p3669
+aS'The Green Berets'
+p3670
+aS'The House Ways And Means Committee'
+p3671
+aS'The Mighty Ducks'
+p3672
+aS'The People Next Door'
+p3673
+aS'The Tudor Kings Of England'
+p3674
+aS'Toad The Wet Sprocket'
+p3675
+aS'Tony Orlando And Dawn'
+p3676
+aS'Trade Union'
+p3677
+aS'Twins'
+p3678
+aS'U.S. Navy Seals'
+p3679
+aS'Vikings'
+p3680
+aS'Winners And Losers'
+p3681
+asS'Husband & Wife'
+p3682
+(lp3683
+S'Al & Tipper Gore'
+p3684
+aS'Arnold Schwarzenegger & Maria Shriver'
+p3685
+aS'Bill & Hillary Rodham Clinton'
+p3686
+aS'Bruce Willis & Demi Moore'
+p3687
+aS'George & Barbara Bush'
+p3688
+aS'Jimmy & Rosalynn Carter'
+p3689
+aS'John Travolta & Kelly Preston'
+p3690
+aS'John F. Kennedy Jr. & Carolyn Bessette'
+p3691
+aS'Paul Newman & Joanne Woodward'
+p3692
+aS'Queen Elizabeth & Prince Philip'
+p3693
+aS'Ronald & Nancy Reagan'
+p3694
+aS'Steven Spielberg & Kate Capshaw'
+p3695
+aS'Ted Turner & Jane Fonda'
+p3696
+aS'Warren Beatty & Annette Bening'
+p3697
+asS'Event'
+p3698
+(lp3699
+S'A Face-Off In Hockey'
+p3700
+aS'A Game Of Canasta'
+p3701
+aS'A Game Of Simon Says'
+p3702
+aS'A Schoolboy Prank'
+p3703
+aS"Baby's First Steps"
+p3704
+aS'Baseball Double-Header'
+p3705
+aS'Birthday'
+p3706
+aS'Breaking The Sound Barrier'
+p3707
+aS'Bridge Game'
+p3708
+aS'Buying On Margin'
+p3709
+aS'Car Chase'
+p3710
+aS'Charity Auction'
+p3711
+aS'Concert'
+p3712
+aS'Cramming For An Exam'
+p3713
+aS'Cross-Country Skiing'
+p3714
+aS'Curtain Call'
+p3715
+aS'Demonstration'
+p3716
+aS'Dinner'
+p3717
+aS'Dire Emergency'
+p3718
+aS'Double Feature'
+p3719
+aS'Driver Education Class'
+p3720
+aS'Earthquake'
+p3721
+aS'Easter Egg Hunt'
+p3722
+aS'Election'
+p3723
+aS'Equipment Shutdown'
+p3724
+aS'Festival'
+p3725
+aS'Fire Drill'
+p3726
+aS'Fistfight'
+p3727
+aS'Flashback'
+p3728
+aS'Flood'
+p3729
+aS'Fly-Fishing'
+p3730
+aS'Four-Car Pileup'
+p3731
+aS'Four-Minute Mile'
+p3732
+aS'Fourth Of July Parade'
+p3733
+aS'Fund-Raiser'
+p3734
+aS'Fund-Raising Party'
+p3735
+aS'Getting A Speeding Ticket'
+p3736
+aS'Graduation Day'
+p3737
+aS'Grand Slam Home Run'
+p3738
+aS'Heart-To-Heart Talk'
+p3739
+aS'Hurricane'
+p3740
+aS'Indian Summer'
+p3741
+aS'Interview'
+p3742
+aS'Investing For Your Retirement'
+p3743
+aS'Jewish Holiday'
+p3744
+aS'Joyride'
+p3745
+aS'June Wedding'
+p3746
+aS'Landslide'
+p3747
+aS'Landslide Victory'
+p3748
+aS'Lazy Afternoon'
+p3749
+aS'Limbo Contest'
+p3750
+aS'Locking Your Keys In Your Car'
+p3751
+aS"Macy's Thanksgiving Day Parade"
+p3752
+aS'Magic Show'
+p3753
+aS'Mardi Gras'
+p3754
+aS'Mass Protest'
+p3755
+aS'Mowing The Lawn'
+p3756
+aS'Nightmare'
+p3757
+aS'Opening Night'
+p3758
+aS'Overnight Trip'
+p3759
+aS'Pajama Party'
+p3760
+aS'Papal Audience'
+p3761
+aS'Passing Inspection'
+p3762
+aS"Passing Your Driver's Test"
+p3763
+aS'Pep Rally'
+p3764
+aS'Pilgrimage'
+p3765
+aS'Pilgrimage'
+p3766
+aS'Pony Ride'
+p3767
+aS'Potluck Supper'
+p3768
+aS'Quilting Bee'
+p3769
+aS'Raffle'
+p3770
+aS'Rainstorm'
+p3771
+aS'Red-Letter Day'
+p3772
+aS'Rehearsal'
+p3773
+aS'Relay Race'
+p3774
+aS'Repeat Performance'
+p3775
+aS'Rite Of Passage'
+p3776
+aS'Roller Skating'
+p3777
+aS'Round Robin Tennis Tournament'
+p3778
+aS'Sacking The Quarterback'
+p3779
+aS'Scavenger Hunt'
+p3780
+aS'Sending Someone A Fax'
+p3781
+aS'Shadowboxing'
+p3782
+aS'Shipwreck'
+p3783
+aS'Shore Leave'
+p3784
+aS'Showdown'
+p3785
+aS'Snowstorm'
+p3786
+aS'Soapbox Derby Race'
+p3787
+aS'Sock Hop'
+p3788
+aS'Solo Flight'
+p3789
+aS'Space Shuttle Launch'
+p3790
+aS'Stag Party'
+p3791
+aS'State Fair'
+p3792
+aS'State Of The Union Address'
+p3793
+aS'Sudden Stop'
+p3794
+aS'Swap Meet'
+p3795
+aS'Sweepstakes Drawing'
+p3796
+aS'Symposium'
+p3797
+aS'Tag Sale'
+p3798
+aS'Tailgate Party'
+p3799
+aS'Taking A Nap'
+p3800
+aS'Talent Search'
+p3801
+aS'The Battle Of Hastings'
+p3802
+aS'The Boston Tea Party'
+p3803
+aS'The Centennial Olympics'
+p3804
+aS'The Johnstown Flood'
+p3805
+aS'The Olympic Long Jump'
+p3806
+aS'The Olympic Pole Vault'
+p3807
+aS'The Watergate Scandal'
+p3808
+aS'The World Series'
+p3809
+aS'The Battle Of The Bulge'
+p3810
+aS'The Boston Tea Party'
+p3811
+aS'The Cold War'
+p3812
+aS'The War Of The Roses'
+p3813
+aS'Touchdown'
+p3814
+aS'Tournament'
+p3815
+aS'Tournament Of Champions'
+p3816
+aS'Tournament Of Roses Parade'
+p3817
+aS'Track And Field Competition'
+p3818
+aS'Trial By Jury'
+p3819
+aS'Tropical Storm'
+p3820
+aS'Under House Arrest'
+p3821
+aS'Vacation'
+p3822
+aS'Volleyball Game'
+p3823
+aS'Water-Skiing'
+p3824
+aS'Wedding'
+p3825
+aS'Wild Goose Chase'
+p3826
+aS'Wildcat Strike'
+p3827
+aS'Yacht Race'
+p3828
+aS'Yalta Conference'
+p3829
+aS'Yearly Check-Up'
+p3830
+asS'Occupation'
+p3831
+(lp3832
+S'Ambassador'
+p3833
+aS'Anthropologist'
+p3834
+aS'Architect'
+p3835
+aS'Astronaut'
+p3836
+aS'Author'
+p3837
+aS'Automobile Mechanic'
+p3838
+aS'Bellman'
+p3839
+aS'Blacksmith'
+p3840
+aS'Bodyguard'
+p3841
+aS'Bookkeeper'
+p3842
+aS'Bus Driver'
+p3843
+aS'Cab Driver'
+p3844
+aS'Camp Counselor'
+p3845
+aS'Carpenter'
+p3846
+aS'Certified Public Accountant'
+p3847
+aS'Checkout Clerk'
+p3848
+aS'Chemist'
+p3849
+aS'Circus Clown'
+p3850
+aS'Copywriter'
+p3851
+aS'Crossing Guard'
+p3852
+aS'Custodian'
+p3853
+aS'Customs Officer'
+p3854
+aS'Dean Of Students'
+p3855
+aS'Detective'
+p3856
+aS'Doctor'
+p3857
+aS'Doorman'
+p3858
+aS'Editor'
+p3859
+aS'Electrician'
+p3860
+aS'Engineer'
+p3861
+aS'English Teacher'
+p3862
+aS'Executive Chef'
+p3863
+aS'File Clerk'
+p3864
+aS'Financial Planner'
+p3865
+aS'Fire Fighter'
+p3866
+aS'Fire Marshal'
+p3867
+aS'Fireman'
+p3868
+aS'Flight Attendant'
+p3869
+aS'Football Coach'
+p3870
+aS'Freelance Writer'
+p3871
+aS'Front Desk Clerk'
+p3872
+aS'General Contractor'
+p3873
+aS'Hairdresser'
+p3874
+aS'Handyman'
+p3875
+aS'Headhunter'
+p3876
+aS'High School Football Coach'
+p3877
+aS'High School Guidance Counselor'
+p3878
+aS'Insurance Underwriter'
+p3879
+aS'Journalist'
+p3880
+aS'Landlord'
+p3881
+aS'Landscape Architect'
+p3882
+aS'Lawyer'
+p3883
+aS'Lifeguard'
+p3884
+aS'Longshoreman'
+p3885
+aS'Magazine Editor'
+p3886
+aS'Masseur'
+p3887
+aS'Mathematician'
+p3888
+aS'Mayor'
+p3889
+aS'Method Actor'
+p3890
+aS'Music Teacher'
+p3891
+aS'Newspaper Columnist'
+p3892
+aS'Night Manager'
+p3893
+aS'Obstetrician'
+p3894
+aS'Office Manager'
+p3895
+aS'Parking Attendant'
+p3896
+aS'Pharmacist'
+p3897
+aS'Pit Boss'
+p3898
+aS'Plain Clothes Detective'
+p3899
+aS'Playwright'
+p3900
+aS'Plumber'
+p3901
+aS'Podiatrist'
+p3902
+aS'Police Lieutenant'
+p3903
+aS'Police Officer'
+p3904
+aS'Portrait Painter'
+p3905
+aS'Postmaster General'
+p3906
+aS'Preacher'
+p3907
+aS'Real Estate Salesman'
+p3908
+aS'Repairman'
+p3909
+aS'Reporter'
+p3910
+aS'Research Associate'
+p3911
+aS'Sailor'
+p3912
+aS'Sales Clerk'
+p3913
+aS'School Principal'
+p3914
+aS'School Teacher'
+p3915
+aS'Scribe'
+p3916
+aS'Secretary'
+p3917
+aS'Security Guard'
+p3918
+aS'Senate Page'
+p3919
+aS'Shoemaker'
+p3920
+aS'Short-Order Cook'
+p3921
+aS'Stockbroker'
+p3922
+aS'Tailor'
+p3923
+aS'Talk Show Host'
+p3924
+aS'Telephone Operator'
+p3925
+aS'Telephone Repairman'
+p3926
+aS'Test Pilot'
+p3927
+aS'Tour Guide'
+p3928
+aS'Truck Driver'
+p3929
+aS'Underwriter'
+p3930
+aS'University Professor'
+p3931
+aS'Used Car Salesman'
+p3932
+aS'Usher'
+p3933
+aS'Violinist'
+p3934
+aS'Waiter'
+p3935
+aS'Waitress'
+p3936
+aS'Writer'
+p3937
+as.

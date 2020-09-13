@@ -1,0 +1,18 @@
+If you are running Debian or Debian-based OS (like Ubuntu,
+Mint, Raspbian, etc), open the shell and type:
+>>> sudo apt-get install stockfish
+
+If you are running Fedora, do:
+>>> sudo dnf install stockfish
+
+If you are running openSUSE or similar OS, do:
+>>> sudo zypper install stockfish
+
+If you are running centOS or similar OS, do:
+>>> sudo yum install stockfish
+
+If your OS has any package manager, use it to install
+stockfish and your job is done.
+
+
+Your OS is not on this list and has no package managers?
