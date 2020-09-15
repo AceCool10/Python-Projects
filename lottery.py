@@ -5,7 +5,7 @@ import datetime
 global money
 money = 0
 
-game = input("""\nWelcome To Casino, an offline casino program.        
+game = input("""\nWelcome To Casino, an offline casino program.
 
            Here you can play games like:             
            

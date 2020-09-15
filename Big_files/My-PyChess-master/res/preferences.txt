@@ -1,4 +1,4 @@
-sounds = False
+sounds = True
 flip = False
 slideshow = True
 show_moves = True
