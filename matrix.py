@@ -21,7 +21,10 @@ color_change = 0
 FPS = 12
 generate = False
 
-letter = ['1','2','3','4','5','6','7','8','9','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','x','z','x','y','z']
+#only one can be used at a time
+#letter = ['1','2','3','4','5','6','7','8','9','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','x','z','x','y','z']
+
+letter = ['1', '0']
 
 initial_time = 0
 current_time = 0
