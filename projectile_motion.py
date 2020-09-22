@@ -1,7 +1,7 @@
 import pygame
 import math
 
-wScreen = 1200
+wScreen = 1200 # Change this to make it more interesting
 hScreen = 500
 
 win = pygame.display.set_mode((wScreen,hScreen))

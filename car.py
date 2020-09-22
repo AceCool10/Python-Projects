@@ -52,7 +52,7 @@ def loop():		#all the function are called using this function
 	y=540		#y axis position of car
 	x_change=0	#set x position at x axis
 	y_change=0	#set y position at y axis
-	policecar_speed=9	#police car speed
+	policecar_speed=5	#police car speed---------------------------------------------------------------------------------change speed
 	police=0	#police car is 0 stage
 	police_startx=random.randrange(130,(700-car_width)) 	#police car in x axis comes randomly
 	police_starty=-600 #police car comes in y axis -600 becuase opposite side
@@ -69,9 +69,9 @@ def loop():		#all the function are called using this function
 
 			if event.type==pygame.KEYDOWN:	#if any key pressed
 				if event.key==pygame.K_LEFT:	#if pressed key is left
-					x_change=-5		#move left side -5
+					x_change=-3		#move left side -5-----------------------------------------------------------------change your speed
 				if event.key==pygame.K_RIGHT:	#if pressed key is right
-					x_change=5		#move right side +5
+					x_change=3		#move right side +5--------------------------------------------------------------------change speed
 			if event.type==pygame.KEYUP:	#if key unpressed then
 				x_change=0
 		x+=x_change
