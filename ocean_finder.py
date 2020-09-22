@@ -1,22 +1,20 @@
 #! /usr/bin/python3
-'''
-    Simple python game:Ocean treasures
-    Simple game  in which  you have  to find treasure  chests lost  in the
-    bottom of the ocean. The ocean is  represented by a grid of 60 columns
-    by 15 rows and the chests can be  in any one cell. To find a chest you
-    need to drop sonar devices at given locations.
-    To play, click buttons to drop sonar device.
-    The sonar reports the distance to the treasure.
-'''
 import math
 import random
 import tkinter
+import tkinter.messagebox
+from tkinter import *
+game = input("How many columns do you want?   ")
+game = int(game)
+game_two = input("How many rows do you want?   ")
+game_two = int(game)
+
 def odd(n):
     return n & 1
 def color(a):
     return 'green' if odd(a) else 'blue'
 class Map:
-    def __init__(self, master, rows = 15, columns = 60):
+    def __init__(self, master, rows = game_two, columns = game):
         self.master = master
         self.row = random.randrange(rows)
         self.col = random.randrange(columns)
@@ -24,7 +22,7 @@ class Map:
         self.found = False
         Button = tkinter.Button
         self.buttons = []
-        options = dict(text = '??', font = 'Courier 14')
+        options = dict(text = '--', font = 'Courier 14')
         for r in range(rows):
             br = []                 # row of buttons
             self.buttons.append(br)
@@ -44,11 +42,14 @@ class Map:
         if self:
             self.master.quit()
         distance = int(round(math.hypot(row-self.row, col-self.col)))
-        self.buttons[row][col].configure(text = '{}'.format(distance), bg = 'yellow', fg = 'red')
+        self.buttons[row][col].configure(text = '{}'.format(distance), bg = 'light grey', fg = 'black')
         self.cost += 1
         if not distance:
-            print('You win!  At the cost of {} sonar devices.'.format(self.cost))
+            print('You win!  At the cost of {} clicks.'.format(self.cost))
             self.found = True
+            root_two = Tk()
+            w = Label(root_two, text = "You win!  At the cost of {} clicks.".format(self.cost)).grid(row = 0, column = 1)
+            w.pack()
 def main():
     root = tkinter.Tk()
     map = Map(root)
