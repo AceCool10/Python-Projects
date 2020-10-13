@@ -12,13 +12,13 @@ clock=pygame.time.Clock()
 font1=pygame.font.SysFont(None,80)
 font2=pygame.font.SysFont(None,30)
 
-FPS=40
+FPS=30
 grey=(180,180,180)
 white=(255,255,255)
 black=(0,0,0)
 
 speed=5
-accelaration=5
+accelaration=2
 (gridx,gridy)=(4,4)
 rectl=[]
 rectx=[0,display_width/4,display_width/2,3*display_width/4]
