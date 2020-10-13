@@ -18,7 +18,7 @@ white=(255,255,255)
 black=(0,0,0)
 
 speed=5
-accelaration=2
+accelaration=1
 (gridx,gridy)=(4,4)
 rectl=[]
 rectx=[0,display_width/4,display_width/2,3*display_width/4]
